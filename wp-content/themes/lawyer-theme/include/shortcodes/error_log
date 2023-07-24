@@ -1,0 +1,4 @@
+[30-Apr-2020 12:38:09 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/group/public_html/wp-demo/lawyers/wp-content/themes/lawyer-theme/include/shortcodes/shortcode_elements.php on line 174
+[05-May-2020 04:08:40 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/group/public_html/wp-demo/lawyers/wp-content/themes/lawyer-theme/include/shortcodes/shortcode_elements.php on line 174
+[05-May-2020 13:59:22 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/group/public_html/wp-demo/lawyers/wp-content/themes/lawyer-theme/include/shortcodes/shortcode_elements.php on line 174
+[05-May-2020 13:59:22 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/group/public_html/wp-demo/lawyers/wp-content/themes/lawyer-theme/include/shortcodes/shortcode_elements.php on line 174

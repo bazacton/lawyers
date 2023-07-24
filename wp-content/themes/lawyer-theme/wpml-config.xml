@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">casestudy</custom-type>
+		<custom-type translate="1">practice</custom-type>
+ 		<custom-type translate="1">teams</custom-type>
+  	</custom-types>
+ 	<taxonomies>
+		<taxonomy translate="1">casestudy-category</taxonomy>
+		<taxonomy translate="1">casestudy-tag</taxonomy>
+		<taxonomy translate="1">practice-category</taxonomy>
+ 		<taxonomy translate="1">teams-category</taxonomy>
+		<taxonomy translate="1">teams-tag</taxonomy>
+	</taxonomies>
+</wpml-config>

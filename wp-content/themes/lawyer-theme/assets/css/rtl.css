@@ -1,0 +1,151 @@
+body, .widget {
+	direction: rtl;
+}
+.flexslider, .owl-carousel, .page-sidebar {
+	direction: ltr !important;
+}
+/*============  FLOAT SECTION STYLE ============ */
+.left-side, .ts-author figure, #footer-sec .widget-section-title h2, .widget-recent-blog figure, footer .widget .post-option li i, .header_2 .logo, .navigation ul li, .post-options li,
+.main-section .post-options li i, .cs-cases .cs-heading h2, .cs-cases .frameshape, .cs-cases ul, .btn-position-bottom .text, .btn-position-top .text, .team-detail figure.detailpost img,
+.detailpost .sg-socialmedia ul, .team-detail .sg-socialmedia .send-email, .team-detail .Profile-btn, .widget-section-title h2, .cs-edu-info, .cs-edu-info header,
+.liststyle ul li i, .cs-classic-form input[type="checkbox"], .cs-classic-form form p, .team-detail .sg-socialmedia .send-email i, .main-section .date-time,
+.blog-medium-small .cs-media figure, .post-options-v1 li, .blog-medium-small .post-option-btn, .post-option-btn li i, .cs-blog.blog-medium figure, .post-option-panel .post-options,
+.admin-post, .cs-qoute, .detail-post .socialmedia li, .detail-post .socialmedia, .prev-next-post article figure, .post-options, .cs-blog .post-options-v1 li a, .thumblist header,
+.thumblist figure, .thumblist span, .page-no-search .cs-search-area > form, .cs-services figure i, .under-wrapp .cons-text-wrapp h1, .user-signup > form, .under-wrapp .cons-icon-area,
+.main-section .dropcap-one:first-letter, .dropcap-one p:first-letter, .dropcap-two:first-letter, .dropcap-two p:first-letter, .panel-heading a span, .nav-position-top .nav-tabs > li, .cs-vertical-tabs .nav-tabs,
+.extra-large-btn.has_icon i, .medium-btn.has_icon i, .small-btn.has_icon i, .skillbar, .skillbar-bar, .skills-v2 span, .skills-sec span, .widget_archive ul li a, .main-section .widget-recent-blog .post-option li i,
+.widget_tag_cloud .tagcloud a, .footer_icon, .breadcrumbs ul li, .cs_form_styling input[type="text"], .cs_form_styling input[type="email"],  /*Resolve Issue*/.top-bar .sg-socialmedia ul li, .team_grid_sh.btn-position-bottom .sg-socialmedia,
+.large-btn.has_icon i, .owl-carousel .readmore-btn, .twitter_widget .text a i, .blog-editor .admin-post li a, .cs-tags ul li{
+	float: right !important;
+}
+.right-side, .search-sec, .btn-position-top .Profile-btn, .readmore-btn, .plain .skills-sec small, .skills-sec small, #copyright .social-media {
+	float: left !important;
+}
+.cs-services.modren.top-center .text, .cs-services.boxed .text {text-align:center !important;}
+
+/*============  Text Right ============ */
+.question-mark p, .main-section .ts-author, .sub-dropdown li, .cs-services .text, .cs-blog.blog-grid h2, 
+.under-wrapp .cons-text-wrapp p, .table.tablev2 th, .table.tablev2 tbody tr td, .page-title-align-left, .owl-carousel .timeline-slide
+{text-align: right !important;}
+
+/*============  Text Left ============ */
+{text-align: left!important;} 
+
+/*============  Header Style ============ */
+.main-navbar .search-sec form, .main-section .btn-position-bottom .Profile-btn {left:0; right: auto;}
+.main-navbar .search-sec form label {left: 11px; right: auto;}
+.main-navbar .search-sec form input[type="submit"] {border-style: none solid none none; border-width: medium 1px medium medium; border-color:#cecece;}
+.navbar-nav .sub-dropdown {right: 0; left: auto; transform: translateX(-20px);}
+.main-navbar .navigation ul ul ul {right: 100%; left: auto;}
+.rtl .navigation ul li.dropdown a {float: right;text-align: right;}
+.sub-dropdown > li.parentIcon > a:before {right: auto; left: 15px; transform: scale(-1);}
+.navigation ul > li > a:before {right: -3px; left: auto;}
+.navbar.navigation.mobile-nav{ float: right !important; margin: 0 30px 0 0 !important; }
+.navbar-collapse{ left: auto !important; right: 0 !important;}
+/*============  Breadcrumbs Style ============ */
+.wrapper .breadcrumbs ul li {padding: 6px 0 6px 70px;}
+.wrapper .breadcrumbs ul li:before {transform: scale(-1); left: 29px; right: auto;}
+/*============  About Us Style ============ */
+.main-section .question-mark {padding: 30px 70px 30px 30px;}
+.main-section .question-mark p {padding: 0 20px 0 0; border-right: 1px solid #5d5f65; border-left: none;}
+.main-section .question-mark:before {right: 24px; left: auto;}
+.question-mark:after {right: 20px; left: auto;}
+.main-section .ts-author {padding: 0 50px 0 0;}
+.main-section .ts-author figure {margin: 0 0 0 14px;}
+/*============  Cases Style ============ */
+.main-section .post-options li i {margin: 5px 0 0 7px;}
+.cs-cases .cs-heading h2:before {right: 0; left: auto;}
+.cs-cases .cs-heading h2:after {right: 5px; left: auto;}
+/*============  Team Detail Style ============ */
+.main-section .team-detail figure figcaption, .main-section .panel-heading .collapse.collapsed:before, .main-section .panel-heading .collapse:before {left: 0; right: auto;}
+.main-section .team-detail .sg-socialmedia .send-email  {margin: -4px 20px 0 0;}
+.main-section .team-detail .dividerstyle:before {right: -3px; left: auto;}
+.main-section .cs-edu-info:before {right: -34px; left: auto;}
+.main-section .cs-edu-info .inner-sec:before {right: -40px; left: auto;}
+.main-section .cs-edu-info .inner-sec:after {right: -26px; left: auto;}
+.main-section .cs-edu-info {margin: 0 40px 15px 0;}
+.main-section .cs-edu-info header ~ .text {padding: 0 160px 0 0;}
+.main-section .liststyle ul li i {margin: 6px 0 0 10px;}
+.main-section .cs_form_styling .form-style input[type="text"], .main-section .cs_form_styling .form-style input[type="email"] {padding: 0 15px 0 0;}
+.main-section .cs-classic-form textarea  {padding: 20px 20px 0 0;}
+.main-section .cs-classic-form input[type="checkbox"] {margin: 4px 0 0 10px;}
+.main-section .team-detail .sg-socialmedia .send-email i {margin: 6px 0 0 8px;}
+.cs-services.modren.top-center figure i, .cs-services.boxed figure figcaption i {float: none!important;}
+/*============  Blogs Style ============ */
+.main-section .date-time {margin: 0 0 0 25px;}
+.main-section .blog-medium-small .cs-media figure {margin: 0 0 0 30px;}
+.main-section .post-option-btn li i {margin: 9px 0 0 8px;}
+.main-section .cs-blog.blog-medium .cs-media ~ .blog-text {padding: 0 300px 0 0;}
+.main-section .cs-blog .readmore-btn img {margin: -3px 6px 0 0; transform: scale(-1);}
+.main-section .cs-blog.blog-lrg .date-time ~ .blog-text, .main-section .cs-blog.blog-lrg .date-time ~ .cs-media {padding: 0 92px 0 0;}
+.main-section .cs-blog.blog-lrg .date-time ~ .blog-text {float: left;}
+.main-section .cs-section-title h2:before, .main-section .cs-section-title h2:after {right: 0; left: auto;}
+.main-section .admin-post ~ .rich_editor_text {padding: 0 134px 0 0;}
+.main-section .cs-qoute:before {right: -18px; left: auto; transform: scale(1);}
+.main-section .blog-editor.rich_editor_text .cs-qoute {margin: 0 25px 0 0;}
+.main-section .blog-editor .cs-tags {padding: 0 134px 0 0;}
+.main-section .socialmedia .at_PinItButton:before {margin: 0 -9px 0 0;}
+.main-section .prev-next-post article figure ~ .text {padding: 5px 150px 0 0;}
+.main-section .cs-prv-next .owl-controls {left: 0; right: auto;}
+.main-section .thumblist .text {padding: 0 205px 0 0;} .main-section .cs-plain-form .comment-form-phone ~ .comment-form-comment {left: 0; right: auto; padding: 0 25px 0 0;}
+.main-section .cs-seprator .devider2:before, .main-section .cs-seprator .devider2:after, .main-section .page-no-search h1:before, .main-section .page-no-search h1:after,
+.main-section .under-wrapp .cons-text-wrapp h1:before, .main-section .under-wrapp .cons-text-wrapp h1:after {right: 0; left: auto;}
+/*============  No Search Result Style ============ */
+.main-section .cs-search-area label, .main-section .user-signup label {border-right: 1px solid #cecece; border-left: none;}
+.main-section .user-signup label, .main-section button.close-v1 {left: 0; right: auto; border-radius:6px 0px;}
+.main-section .cs-search-area label {left: 0; right: auto; border-right: 1px solid #cecece; border-left: none;}
+.main-section .cs-search-area label:after, .main-section .user-signup form label:after {left: 15px; right: auto; transform: scaleX(1);}
+.rtl .main-section .cs-search-area label:after, .main-section .user-signup form label:after {left: 4px;}
+/*============  Typography Style ============ */
+.main-section .dropcap-one:first-letter, .main-section .dropcap-one p:first-letter {margin: 0 0 0 20px;} 
+.main-section .dropcap-two:first-letter, .main-section .dropcap-two p:first-letter {margin: 0 0 0 15px;}
+.main-section .messagebox i {margin:0 0 0 10px;}
+.main-section .nav-position-top .nav-tabs > li.active:last-child > a{border-left: 1px solid #dddddd;}
+.main-section .nav-position-top .nav-tabs li:last-child a{border-left: 1px solid #dddddd;}
+.main-section .nav-position-top .nav-tabs li:first-child a{border-left:none !important;}
+/*============  FAQS Style ============ */
+.main-section .panel-group.simple .panel-body p { border-right: 1px solid #eeeeee;  border-left: none; padding: 0 30px 0 0;}
+.main-section .cs-vertical-tabs .nav-tabs li a:before, .main-section .cs-vertical-tabs .nav-tabs li.active a:before {transform: rotate(0deg); left: 0; right: auto;}
+.main-section .default.has_icon {padding-right: 0;}
+.main-section .cs_counter.classic {border-left: 1px solid #ccc; border-right: none;} .main-section .cs_counter i {padding: 0 0 0 10px;}
+.main-section .skills-v3 .skillbar small {left: 5px; right: auto;} .main-section .skills-v3 .skillbar span {margin: 0 10px 0 0;}
+.main-section .panel-heading a span {margin: 0 -5px 0 10px;}
+/*============  Widgets Style ============ */
+.main-section .widget_categories ul li a:after {left: 14px; right: auto; transform: scale(-1);}
+.main-section .widget ul li {padding: 0 16px 0 7px;}
+.main-section .widget-recent-blog figure ~ .infotext {padding: 0 83px 0 0;}
+.main-section .widget-recent-blog .post-option li {padding: 0;} .main-section .widget-recent-blog .post-option li i {margin: 2px 0 0 5px;}
+.main-section .widget_tag_cloud .tagcloud a {margin: 0 0 5px 5px;}
+/*============  Footer Style ============ */
+footer .widget-section-title h2:before, footer .widget-section-title h2:after, .main-section .widget-section-title h2:before, .main-section .widget-section-title h2:after{right: 0; left: auto;}
+footer .widget-recent-blog figure ~ .infotext {padding: 0 83px 0 0;}
+footer .widget .post-option li i {margin: 3px 0 0 5px;}
+footer .widget_categories ul li a:after {left: 14px; right: auto; transform: scale(-1);}
+#copyright .footer_icon {margin: 0 0 0 20px;}
+/*============  Resolve Issue Style ============ */
+#main-header .top-bar p i {display: inline-block; margin: 0 0 0 9px;}
+#main-header .sg-socialmedia ul li {margin: 0 7px 0 0;}
+.main-section .question-mark:after {left: auto; right: 20px; border-right: 20px solid transparent; border-left: none;}
+.main-section .cs-team .sg-socialmedia ul li a {display: inline-block; float: none;}
+.cs-blog.blog-medium .post-options li {margin: 0 10px 0 0;}
+.cs-team.btn-position-bottom .text .sg-socialmedia ul li:first-child {margin: 0 0 0 7px;}
+.pagination ul li{float:right !important;}
+#main-content .time_line .owl-nav{right: auto; left: 0px;}
+#main-content .time_line .owl-nav div{margin: 0 17px 0 0;}
+#main-content .time_line .owl-controls::before{left: auto; right: 0px; transform:scale(-1);}
+#main-content .time_line .timeline-slide .inner-sec .readmore-btn img{transform: scale(-1); transform-style: nomal;}
+.twitter_widget .text a i{margin: 6px 0px 0 5px !important;}
+.widget_text ul li i{margin: 6px 0px 0 8px !important;}
+#main-content .time_line.col-md-12{padding: 30px 30px 0 20px;}
+#main-content .widget_search .cs-search-area input{padding-left: 0px; padding-right: 16px; }
+.twitter_widget .text a i{float:right; margin:6px 0 0 5px;}
+[class*="element-size-"]:last-child .cs_counter.classic{border-left:0;}
+.page-content{float:right !important;}
+.page-content ~ .page-sidebar{float:right !important;}
+.cs-search-area label{right:auto; left:0; border-left:0; border-right:1px solid #cecece;}
+.main-section .page-not-found .cs-search-area input, .main-section .user-signup form input{text-align:right;}
+#countdownwrapp{float:right !important;}
+.under-wrapp .main-digit-wrapp{float:right !important; border-right:0 !important; border-left:1px solid #f4f0f0; margin-left:15px; margin-right:0 !important; padding-left:5px; padding-right:0 !important;}
+.main-digit-wrapp .digit-wrapp{text-align:right !important;}
+.countdown-period{text-align:right !important;}
+.cs-vertical-tabs .nav-tabs{margin:0 0 0 2px !important;}

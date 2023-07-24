@@ -1,0 +1,10 @@
+[27-Apr-2020 15:33:29 UTC] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/group/public_html/wp-demo/lawyers/wp-includes/customize/class-wp-customize-new-menu-section.php on line 19
+[28-Apr-2020 03:53:28 UTC] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/group/public_html/wp-demo/lawyers/wp-includes/customize/class-wp-customize-new-menu-section.php on line 19
+[29-Apr-2020 02:31:14 UTC] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/group/public_html/wp-demo/lawyers/wp-includes/customize/class-wp-customize-new-menu-section.php on line 19
+[29-Apr-2020 05:04:38 UTC] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/group/public_html/wp-demo/lawyers/wp-includes/customize/class-wp-customize-new-menu-section.php on line 19
+[29-Apr-2020 05:31:39 UTC] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/group/public_html/wp-demo/lawyers/wp-includes/customize/class-wp-customize-new-menu-section.php on line 19
+[29-Apr-2020 20:21:25 UTC] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/group/public_html/wp-demo/lawyers/wp-includes/customize/class-wp-customize-new-menu-section.php on line 19
+[30-Apr-2020 12:37:27 UTC] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/group/public_html/wp-demo/lawyers/wp-includes/customize/class-wp-customize-new-menu-section.php on line 19
+[05-May-2020 04:08:37 UTC] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/group/public_html/wp-demo/lawyers/wp-includes/customize/class-wp-customize-new-menu-section.php on line 19
+[07-May-2020 03:45:01 UTC] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/group/public_html/wp-demo/lawyers/wp-includes/customize/class-wp-customize-new-menu-section.php on line 19
+[07-May-2020 03:45:04 UTC] PHP Fatal error:  Class 'WP_Customize_Section' not found in /home/group/public_html/wp-demo/lawyers/wp-includes/customize/class-wp-customize-new-menu-section.php on line 19

@@ -1,0 +1,7634 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lawyer v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-10 08:15:53+0000\n"
+"Last-Translator: admin <admin@admin.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Arabic\n"
+"X-Poedit-Country: U.A.E.\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: archive.php:170
+#: cs-templates/blog-styles/blog_templates.php:252
+#: include/shortcodes/loops_function.php:528
+#: include/shortcodes/loops_function.php:548
+#: include/shortcodes/shortcode_functions.php:241
+#: include/shortcodes/shortcode_functions.php:281
+#: index.php:91
+#: single.php:213
+#: single.php:277
+#: single.php:405
+#, php-format
+#@ Lawyer
+msgid "%1$s"
+msgstr ""
+
+#: archive.php:182
+#: cs-templates/blog-styles/blog_templates.php:117
+#: cs-templates/blog-styles/blog_templates.php:169
+#: cs-templates/blog-styles/blog_templates.php:303
+#: cs-templates/blog-styles/blog_templates.php:359
+#: include/shortcodes/loops_function.php:624
+#: include/shortcodes/loops_function.php:633
+#: include/shortcodes/loops_function.php:1391
+#: index.php:105
+#@ Lawyer
+msgid "Read More"
+msgstr ""
+
+#: archive.php:184
+#: cs-templates/blog-styles/blog_templates.php:227
+#: cs-templates/blog-styles/blog_templates.php:305
+#: cs-templates/blog-styles/blog_templates.php:361
+#: include/shortcodes/loops_function.php:609
+#: index.php:107
+#@ Lawyer
+msgid "0"
+msgstr ""
+
+#: archive.php:184
+#: cs-templates/blog-styles/blog_templates.php:227
+#: cs-templates/blog-styles/blog_templates.php:305
+#: cs-templates/blog-styles/blog_templates.php:361
+#: include/shortcodes/loops_function.php:609
+#: index.php:107
+#@ Lawyer
+msgid "1"
+msgstr ""
+
+#: archive.php:184
+#: cs-templates/blog-styles/blog_templates.php:227
+#: cs-templates/blog-styles/blog_templates.php:305
+#: cs-templates/blog-styles/blog_templates.php:361
+#: include/shortcodes/loops_function.php:609
+#: index.php:107
+#@ Lawyer
+msgid "%"
+msgstr ""
+
+#: comments.php:15
+#@ Lawyer
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:15
+#: include/shortcodes/loops_function.php:609
+#: include/theme-components/cs-widgets/widgets.php:614
+#@ Lawyer
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:15
+#: include/shortcodes/loops_function.php:609
+#: include/theme-components/cs-widgets/widgets.php:614
+#@ Lawyer
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:21
+#: comments.php:28
+#@ Lawyer
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:22
+#: comments.php:29
+#@ Lawyer
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:39
+#, php-format
+#@ Lawyer
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+#@ Lawyer
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:41
+#, php-format
+#@ Lawyer
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:42
+#, php-format
+#@ Lawyer
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: comments.php:50
+#: cs-templates/team-styles/single-team.php:468
+#: functions.php:4072
+#: include/shortcodes/loops_elements.php:717
+#: include/theme-components/cs-widgets/widgets.php:1139
+#: page_contact_submit.php:23
+#@ Lawyer
+msgid "Name"
+msgstr ""
+
+#: comments.php:56
+#: cs-templates/team-styles/single-team.php:471
+#: functions.php:4076
+#: include/shortcodes/loops_elements.php:797
+#: include/theme-components/cs-posttypes/pt_team.php:224
+#: include/theme-components/cs-widgets/widgets.php:927
+#: include/theme-components/cs-widgets/widgets.php:1142
+#: page_contact_submit.php:27
+#@ Lawyer
+msgid "Email"
+msgstr ""
+
+#: comments.php:63
+#@ Lawyer
+msgid "Website"
+msgstr ""
+
+#: comments.php:69
+#: functions.php:4090
+#: include/shortcodes/shortcode_functions.php:1501
+#: include/shortcodes/typography_elements.php:1145
+#: include/shortcodes/typography_function.php:530
+#: include/shortcodes/typography_function.php:533
+#: include/theme-components/cs-widgets/widgets.php:1145
+#: page_contact_submit.php:35
+#@ Lawyer
+msgid "Message"
+msgstr ""
+
+#: comments.php:80
+#@ Lawyer
+msgid "Leave us a reply"
+msgstr ""
+
+#: comments.php:81
+#, php-format
+#@ Lawyer
+msgid "<div class=\"cs-section-title\"><h2>Leave a Reply to %s </h2></div>"
+msgstr ""
+
+#: comments.php:82
+#@ Lawyer
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:83
+#: functions.php:3312
+#: include/theme-components/cs-importer/wordpress-importer.php:299
+#@ Lawyer
+msgid "Submit"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:55
+#: include/shortcodes/loops_elements.php:459
+#@ Lawyer
+msgid "Edit Blog Options"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:62
+#: cs-templates/casestudy-styles/casestudy_element.php:62
+#: cs-templates/practice-styles/practice_element.php:62
+#: cs-templates/team-styles/team_element.php:62
+#: include/admin_functions.php:1106
+#: include/shortcodes/common_elements.php:288
+#: include/shortcodes/common_elements.php:493
+#: include/shortcodes/common_elements.php:951
+#: include/shortcodes/common_elements.php:1195
+#: include/shortcodes/common_elements.php:2221
+#: include/shortcodes/common_elements.php:2358
+#: include/shortcodes/contentblock_elements.php:70
+#: include/shortcodes/contentblock_elements.php:453
+#: include/shortcodes/contentblock_elements.php:762
+#: include/shortcodes/loops_elements.php:70
+#: include/shortcodes/loops_elements.php:301
+#: include/shortcodes/loops_elements.php:466
+#: include/shortcodes/loops_elements.php:697
+#: include/shortcodes/loops_elements.php:1035
+#: include/shortcodes/loops_elements.php:1244
+#: include/shortcodes/media_elements.php:64
+#: include/shortcodes/media_elements.php:191
+#: include/shortcodes/media_elements.php:348
+#: include/shortcodes/typography_elements.php:330
+#: include/shortcodes/typography_elements.php:435
+#: include/shortcodes/typography_elements.php:911
+#: include/shortcodes/typography_elements.php:1123
+#: include/shortcodes/typography_elements.php:1361
+#: include/shortcodes/typography_elements.php:1581
+#: include/shortcodes/typography_elements.php:1725
+#: include/theme-components/cs-posttypes/pt_team.php:318
+#: include/theme-components/cs-posttypes/pt_team.php:333
+#: include/theme-options/theme_options.php:1171
+#@ Lawyer
+msgid "Section Title"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:69
+#: cs-templates/casestudy-styles/casestudy_element.php:88
+#: cs-templates/team-styles/team_element.php:89
+#: include/shortcodes/loops_elements.php:473
+#@ Lawyer
+msgid "Choose Category"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:75
+#: include/shortcodes/loops_elements.php:479
+#@ Lawyer
+msgid "-- Select Category --"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:81
+#: cs-templates/blog-styles/blog_element.php:102
+#: cs-templates/practice-styles/practice_element.php:83
+#: cs-templates/practice-styles/practice_element.php:101
+#: cs-templates/team-styles/team_element.php:82
+#: cs-templates/team-styles/team_element.php:101
+#: include/shortcodes/loops_elements.php:485
+#: include/shortcodes/loops_elements.php:509
+#@ Lawyer
+msgid "Please select category to show posts. If you dont select category it will display all posts"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:87
+#: include/shortcodes/loops_elements.php:491
+#@ Lawyer
+msgid "Blog Design Views"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:93
+#@ Lawyer
+msgid "Blog Small"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:94
+#@ Lawyer
+msgid "Blog Medium"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:95
+#@ Lawyer
+msgid "Blog Large"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:96
+#@ Lawyer
+msgid "Blog Masonry"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:97
+#@ Lawyer
+msgid "Blog Grid"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:109
+#: include/shortcodes/loops_elements.php:327
+#: include/shortcodes/loops_elements.php:516
+#@ Lawyer
+msgid "Post Order"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:115
+#: cs-templates/casestudy-styles/casestudy_element.php:78
+#: cs-templates/practice-styles/practice_element.php:114
+#: cs-templates/team-styles/team_element.php:115
+#: include/shortcodes/loops_elements.php:333
+#: include/shortcodes/loops_elements.php:522
+#@ Lawyer
+msgid "Asc"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:116
+#: cs-templates/casestudy-styles/casestudy_element.php:79
+#: cs-templates/practice-styles/practice_element.php:115
+#: cs-templates/team-styles/team_element.php:116
+#: include/shortcodes/loops_elements.php:334
+#: include/shortcodes/loops_elements.php:523
+#@ Lawyer
+msgid "DESC"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:124
+#: include/shortcodes/loops_elements.php:342
+#: include/shortcodes/loops_elements.php:531
+#@ Lawyer
+msgid "Post Description"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:130
+#: cs-templates/blog-styles/blog_element.php:145
+#: include/admin_functions.php:410
+#: include/admin_functions.php:425
+#: include/admin_functions.php:442
+#: include/page_options.php:437
+#: include/shortcodes/common_elements.php:106
+#: include/shortcodes/common_elements.php:347
+#: include/shortcodes/common_elements.php:752
+#: include/shortcodes/common_elements.php:1048
+#: include/shortcodes/common_elements.php:1577
+#: include/shortcodes/common_elements.php:2428
+#: include/shortcodes/contentblock_elements.php:620
+#: include/shortcodes/loops_elements.php:92
+#: include/shortcodes/loops_elements.php:103
+#: include/shortcodes/loops_elements.php:348
+#: include/shortcodes/loops_elements.php:537
+#: include/shortcodes/loops_elements.php:555
+#: include/shortcodes/media_elements.php:386
+#: include/shortcodes/shortcode_functions.php:1957
+#: include/shortcodes/shortcode_functions.php:1971
+#: include/shortcodes/shortcode_functions.php:2024
+#: include/shortcodes/shortcode_functions.php:2068
+#: include/shortcodes/shortcode_functions.php:2189
+#: include/shortcodes/typography_elements.php:85
+#: include/shortcodes/typography_elements.php:941
+#: include/shortcodes/typography_elements.php:1245
+#@ Lawyer
+msgid "Yes"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:131
+#: cs-templates/blog-styles/blog_element.php:146
+#: include/admin_functions.php:411
+#: include/admin_functions.php:426
+#: include/admin_functions.php:441
+#: include/page_options.php:438
+#: include/shortcodes/common_elements.php:107
+#: include/shortcodes/common_elements.php:346
+#: include/shortcodes/common_elements.php:753
+#: include/shortcodes/common_elements.php:1047
+#: include/shortcodes/common_elements.php:1578
+#: include/shortcodes/common_elements.php:2427
+#: include/shortcodes/contentblock_elements.php:621
+#: include/shortcodes/loops_elements.php:93
+#: include/shortcodes/loops_elements.php:104
+#: include/shortcodes/loops_elements.php:349
+#: include/shortcodes/loops_elements.php:538
+#: include/shortcodes/loops_elements.php:558
+#: include/shortcodes/media_elements.php:387
+#: include/shortcodes/shortcode_functions.php:1958
+#: include/shortcodes/shortcode_functions.php:1972
+#: include/shortcodes/shortcode_functions.php:2023
+#: include/shortcodes/shortcode_functions.php:2068
+#: include/shortcodes/shortcode_functions.php:2189
+#: include/shortcodes/typography_elements.php:86
+#: include/shortcodes/typography_elements.php:942
+#: include/shortcodes/typography_elements.php:1246
+#@ Lawyer
+msgid "No"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:139
+#: include/admin_functions.php:1145
+#: include/shortcodes/loops_elements.php:547
+#@ Lawyer
+msgid "Filterable"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:154
+#: cs-templates/casestudy-styles/casestudy_element.php:122
+#: include/shortcodes/loops_elements.php:357
+#: include/shortcodes/loops_elements.php:567
+#@ Lawyer
+msgid "Length of Excerpt"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:161
+#: cs-templates/casestudy-styles/casestudy_element.php:129
+#: include/shortcodes/loops_elements.php:364
+#: include/shortcodes/loops_elements.php:574
+#@ Lawyer
+msgid "Enter number of character for short description text"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:168
+#: cs-templates/casestudy-styles/casestudy_element.php:108
+#: cs-templates/practice-styles/practice_element.php:125
+#: cs-templates/team-styles/team_element.php:126
+#: include/shortcodes/loops_elements.php:371
+#: include/shortcodes/loops_elements.php:581
+#@ Lawyer
+msgid "No. of Post Per Page"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:175
+#: cs-templates/casestudy-styles/casestudy_element.php:115
+#: cs-templates/practice-styles/practice_element.php:132
+#: cs-templates/team-styles/team_element.php:133
+#: include/admin_functions.php:1193
+#: include/shortcodes/loops_elements.php:588
+#@ Lawyer
+msgid "To display all the records, leave this field blank"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:181
+#: cs-templates/casestudy-styles/casestudy_element.php:136
+#: cs-templates/practice-styles/practice_element.php:138
+#: cs-templates/team-styles/team_element.php:139
+#: include/admin_functions.php:1178
+#: include/shortcodes/loops_elements.php:594
+#@ Lawyer
+msgid "Pagination"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:185
+#: cs-templates/casestudy-styles/casestudy_element.php:140
+#: cs-templates/practice-styles/practice_element.php:142
+#: cs-templates/team-styles/team_element.php:143
+#: include/admin_functions.php:1182
+#: include/shortcodes/loops_elements.php:598
+#@ Lawyer
+msgid "Show Pagination"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:186
+#: cs-templates/casestudy-styles/casestudy_element.php:141
+#: cs-templates/practice-styles/practice_element.php:143
+#: cs-templates/team-styles/team_element.php:144
+#: include/admin_functions.php:1183
+#: include/shortcodes/loops_elements.php:599
+#@ Lawyer
+msgid "Single Page"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_element.php:197
+#: cs-templates/casestudy-styles/casestudy_element.php:152
+#: cs-templates/practice-styles/practice_element.php:154
+#: cs-templates/team-styles/team_element.php:155
+#: include/admin_functions.php:1203
+#: include/shortcodes/common_elements.php:189
+#: include/shortcodes/common_elements.php:406
+#: include/shortcodes/common_elements.php:546
+#: include/shortcodes/common_elements.php:857
+#: include/shortcodes/common_elements.php:1110
+#: include/shortcodes/common_elements.php:1343
+#: include/shortcodes/common_elements.php:1619
+#: include/shortcodes/common_elements.php:1810
+#: include/shortcodes/common_elements.php:2106
+#: include/shortcodes/common_elements.php:2266
+#: include/shortcodes/common_elements.php:2477
+#: include/shortcodes/contentblock_elements.php:215
+#: include/shortcodes/contentblock_elements.php:373
+#: include/shortcodes/contentblock_elements.php:656
+#: include/shortcodes/contentblock_elements.php:868
+#: include/shortcodes/contentblock_elements.php:957
+#: include/shortcodes/loops_elements.php:222
+#: include/shortcodes/loops_elements.php:387
+#: include/shortcodes/loops_elements.php:610
+#: include/shortcodes/loops_elements.php:832
+#: include/shortcodes/loops_elements.php:941
+#: include/shortcodes/loops_elements.php:1148
+#: include/shortcodes/loops_elements.php:1370
+#: include/shortcodes/media_elements.php:105
+#: include/shortcodes/media_elements.php:265
+#: include/shortcodes/media_elements.php:468
+#: include/shortcodes/media_elements.php:597
+#: include/shortcodes/shortcode_elements.php:139
+#: include/shortcodes/typography_elements.php:129
+#: include/shortcodes/typography_elements.php:245
+#: include/shortcodes/typography_elements.php:354
+#: include/shortcodes/typography_elements.php:496
+#: include/shortcodes/typography_elements.php:609
+#: include/shortcodes/typography_elements.php:826
+#: include/shortcodes/typography_elements.php:1006
+#: include/shortcodes/typography_elements.php:1275
+#: include/shortcodes/typography_elements.php:1487
+#: include/shortcodes/typography_elements.php:1648
+#: include/shortcodes/typography_elements.php:1792
+#@ Lawyer
+msgid "Insert"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_templates.php:61
+#: cs-templates/blog-styles/blog_templates.php:119
+#: cs-templates/blog-styles/blog_templates.php:171
+#@ Lawyer
+msgid "0 comments"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_templates.php:61
+#: cs-templates/blog-styles/blog_templates.php:119
+#: cs-templates/blog-styles/blog_templates.php:171
+#@ Lawyer
+msgid "1 comments"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_templates.php:61
+#: cs-templates/blog-styles/blog_templates.php:119
+#: cs-templates/blog-styles/blog_templates.php:171
+#@ Lawyer
+msgid "% comments"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_templates.php:225
+#@ Lawyer
+msgid "Continue Reading"
+msgstr ""
+
+#: cs-templates/blog-styles/blog_templates.php:230
+#@ Lawyer
+msgid "Share"
+msgstr ""
+
+#: cs-templates/casestudy-styles/casestudy_element.php:55
+#@ Lawyer
+msgid "Edit Case Study Options"
+msgstr ""
+
+#: cs-templates/casestudy-styles/casestudy_element.php:72
+#@ Lawyer
+msgid "Case Study Order"
+msgstr ""
+
+#: cs-templates/casestudy-styles/casestudy_element.php:94
+#: cs-templates/practice-styles/practice_element.php:95
+#: cs-templates/team-styles/team_element.php:95
+#: include/shortcodes/loops_elements.php:317
+#: include/theme-components/cs-widgets/widgets.php:512
+#@ Lawyer
+msgid "Select Category"
+msgstr ""
+
+#: cs-templates/casestudy-styles/casestudy_element.php:100
+#@ Lawyer
+msgid "Please select category to show posts. If you dont select category it will display all posts."
+msgstr ""
+
+#: cs-templates/casestudy-styles/casestudy_templates.php:97
+#@ Lawyer
+msgid "Read more"
+msgstr ""
+
+#: cs-templates/casestudy-styles/single-casestudy.php:162
+#: cs-templates/practice-styles/single-practice.php:146
+#: include/shortcodes/shortcode_functions.php:299
+#: page-blank.php:21
+#@ Lawyer
+msgid "Pages:"
+msgstr ""
+
+#: cs-templates/casestudy-styles/single-casestudy.php:203
+#@ Lawyer
+msgid "Case Team"
+msgstr ""
+
+#: cs-templates/practice-styles/practice_element.php:55
+#@ Lawyer
+msgid "Edit Practice Options"
+msgstr ""
+
+#: cs-templates/practice-styles/practice_element.php:69
+#@ Lawyer
+msgid "Practice Design Views"
+msgstr ""
+
+#: cs-templates/practice-styles/practice_element.php:75
+#@ Lawyer
+msgid "Grid 3 Columns"
+msgstr ""
+
+#: cs-templates/practice-styles/practice_element.php:76
+#@ Lawyer
+msgid "Grid Modern"
+msgstr ""
+
+#: cs-templates/practice-styles/practice_element.php:77
+#@ Lawyer
+msgid "Grid 4 Columns"
+msgstr ""
+
+#: cs-templates/practice-styles/practice_element.php:78
+#@ Lawyer
+msgid "Grid Curved"
+msgstr ""
+
+#: cs-templates/practice-styles/practice_element.php:89
+#@ Lawyer
+msgid "Practice Category"
+msgstr ""
+
+#: cs-templates/practice-styles/practice_element.php:108
+#@ Lawyer
+msgid "Practice Order"
+msgstr ""
+
+#: cs-templates/practice-styles/single-practice.php:171
+#@ Lawyer
+msgid "Choosing the Right child care Attorney"
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:186
+#: cs-templates/team-styles/team_templates.php:107
+#: cs-templates/team-styles/team_templates.php:214
+#: include/shortcodes/typography_function.php:521
+#: include/theme-components/cs-posttypes/pt_team.php:206
+#@ Lawyer
+msgid "Phone Number"
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:194
+#: include/theme-components/cs-posttypes/pt_team.php:215
+#@ Lawyer
+msgid "Fax Number"
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:202
+#: cs-templates/team-styles/team_templates.php:115
+#: cs-templates/team-styles/team_templates.php:222
+#@ Lawyer
+msgid "Email Address"
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:214
+#: include/shortcodes/loops_elements.php:765
+#: include/theme-components/cs-posttypes/pt_team.php:233
+#: include/theme-options/theme_options.php:1266
+#: include/theme-options/theme_options.php:1584
+#: include/theme-options/theme_options.php:1586
+#@ Lawyer
+msgid "Facebook"
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:219
+#: include/theme-components/cs-posttypes/pt_team.php:242
+#: include/theme-options/theme_options.php:1273
+#: include/theme-options/theme_options.php:1534
+#: include/theme-options/theme_options.php:1536
+#@ Lawyer
+msgid "Twitter"
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:224
+#: include/theme-components/cs-posttypes/pt_team.php:251
+#: include/theme-options/theme_options.php:1280
+#@ Lawyer
+msgid "Google Plus"
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:229
+#@ Lawyer
+msgid "Linked in"
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:237
+#@ Lawyer
+msgid "Send Email"
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:245
+#@ Lawyer
+msgid "Download vCard"
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:408
+#@ Lawyer
+msgid "Message Sent Successfully."
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:409
+#: include/theme-components/cs-widgets/widgets.php:1082
+#@ Lawyer
+msgid "An error Occured, please try again later."
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:474
+#: functions.php:4081
+#: include/theme-components/cs-widgets/widgets.php:913
+#@ Lawyer
+msgid "Phone"
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:477
+#: include/shortcodes/typography_function.php:527
+#@ Lawyer
+msgid "Subject"
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:481
+#@ Lawyer
+msgid "Tell Us About Your Case"
+msgstr ""
+
+#: cs-templates/team-styles/single-team.php:486
+#@ Lawyer
+msgid "I Have Read and agree to these terms"
+msgstr ""
+
+#: cs-templates/team-styles/team_element.php:55
+#: include/shortcodes/loops_elements.php:691
+#@ Lawyer
+msgid "Edit Team Options"
+msgstr ""
+
+#: cs-templates/team-styles/team_element.php:69
+#@ Lawyer
+msgid "Team Design Views"
+msgstr ""
+
+#: cs-templates/team-styles/team_element.php:75
+#@ Lawyer
+msgid "Grid 4 Column"
+msgstr ""
+
+#: cs-templates/team-styles/team_element.php:76
+#: include/shortcodes/common_elements.php:1903
+#@ Lawyer
+msgid "Modern"
+msgstr ""
+
+#: cs-templates/team-styles/team_element.php:77
+#: include/shortcodes/common_elements.php:1904
+#: include/shortcodes/common_elements.php:2238
+#: include/shortcodes/media_elements.php:205
+#@ Lawyer
+msgid "Classic"
+msgstr ""
+
+#: cs-templates/team-styles/team_element.php:109
+#@ Lawyer
+msgid "Team Order"
+msgstr ""
+
+#: cs-templates/team-styles/team_templates.php:120
+#: cs-templates/team-styles/team_templates.php:228
+#: cs-templates/team-styles/team_templates.php:315
+#@ Lawyer
+msgid "View Profile"
+msgstr ""
+
+#: functions-theme.php:138
+#@ Lawyer
+msgid "<i class=\"icon-long-arrow-left\"></i> Previous"
+msgstr ""
+
+#: functions-theme.php:174
+#@ Lawyer
+msgid "Next <i class=\"icon-long-arrow-right\"></i>"
+msgstr ""
+
+#: functions-theme.php:503
+#@ Lawyer
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions-theme.php:505
+#@ Lawyer
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: functions-theme.php:557
+#, php-format
+#@ Lawyer
+msgid "<span>%1$s</span>"
+msgstr ""
+
+#: functions-theme.php:561
+#@ Lawyer
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions-theme.php:576
+#@ Lawyer
+msgid "(Edit)"
+msgstr ""
+
+#: functions-theme.php:628
+#@ Lawyer
+msgid "Sorry, We are down for maintenance"
+msgstr ""
+
+#: functions-theme.php:629
+#@ Lawyer
+msgid "We're currently under maintenance, if all goas as planned we'll be back in"
+msgstr ""
+
+#: functions-theme.php:752
+#@ Lawyer
+msgid "<span class=\"cs-color\">404</span> ERROR"
+msgstr ""
+
+#: functions-theme.php:758
+#@ Lawyer
+msgid "The Page you Were Looking for Could not be found."
+msgstr ""
+
+#: functions-theme.php:803
+#@ Lawyer
+msgid "Current Page"
+msgstr ""
+
+#: functions.php:2759
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:268
+#@ Lawyer
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:2760
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:269
+#@ Lawyer
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:2761
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:270
+#, php-format
+#@ Lawyer
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:2762
+#@ Lawyer
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:2763
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:273
+#, php-format
+#@ Lawyer
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:2764
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:278
+#, php-format
+#@ Lawyer
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:2765
+#, php-format
+#@ Lawyer
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:2766
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:288
+#, php-format
+#@ Lawyer
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:2767
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:293
+#, php-format
+#@ Lawyer
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:2768
+#, php-format
+#@ Lawyer
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:2769
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:303
+#, php-format
+#@ Lawyer
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:2770
+#, php-format
+#@ Lawyer
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:2771
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:313
+#@ Lawyer
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:2772
+#@ Lawyer
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: functions.php:2773
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:322
+#@ Lawyer
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:2774
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:324
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2277
+#@ Lawyer
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:2775
+#, php-format
+#@ Lawyer
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:2819
+#, php-format
+#@ Lawyer
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:2897
+#@ Lawyer
+msgid "View All Posts"
+msgstr ""
+
+#: functions.php:3306
+#@ Lawyer
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: functions.php:3382
+#: include/shortcodes/common_elements.php:748
+#: search.php:44
+#@ Lawyer
+msgid "Featured"
+msgstr ""
+
+#: functions.php:3400
+#: functions.php:3763
+#: include/shortcodes/shortcode_functions.php:413
+#: include/shortcodes/shortcode_functions.php:2165
+#: include/shortcodes/shortcode_functions.php:2231
+#: include/shortcodes/typography_elements.php:1427
+#: include/shortcodes/typography_elements.php:1590
+#@ Lawyer
+msgid "Author"
+msgstr ""
+
+#: functions.php:3400
+#: functions.php:3404
+#: functions.php:3428
+#@ Lawyer
+msgid "Archives"
+msgstr ""
+
+#: functions.php:3404
+#: functions.php:3762
+#: include/page_options.php:43
+#@ Lawyer
+msgid "Tags"
+msgstr ""
+
+#: functions.php:3408
+#, php-format
+#@ Lawyer
+msgid "Search Results %1$s %2$s"
+msgstr ""
+
+#: functions.php:3412
+#, php-format
+#@ Lawyer
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: functions.php:3416
+#, php-format
+#@ Lawyer
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: functions.php:3416
+#@ Lawyer
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: functions.php:3420
+#, php-format
+#@ Lawyer
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: functions.php:3420
+#@ Lawyer
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: functions.php:3424
+#@ Lawyer
+msgid "Error 404"
+msgstr ""
+
+#: functions.php:3445
+#@ Lawyer
+msgid "No results found."
+msgstr ""
+
+#: functions.php:3453
+#, php-format
+#@ Lawyer
+msgid "<p>Ready to publish your first post? <a href=\"%1$s\">Get Started Here</a>.</p>"
+msgstr ""
+
+#: functions.php:3459
+#@ Lawyer
+msgid "Suggestions:"
+msgstr ""
+
+#: functions.php:3461
+#@ Lawyer
+msgid "Make sure all words are spelled correctly"
+msgstr ""
+
+#: functions.php:3462
+#@ Lawyer
+msgid "Wildcard searches (using the asterisk *) are not supported"
+msgstr ""
+
+#: functions.php:3463
+#@ Lawyer
+msgid "Try more general keywords, especially if you are attempting a name"
+msgstr ""
+
+#: functions.php:3468
+#@ Lawyer
+msgid "<p>It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.</p>"
+msgstr ""
+
+#: functions.php:3528
+#@ Lawyer
+msgid "Previous Post"
+msgstr ""
+
+#: functions.php:3548
+#@ Lawyer
+msgid "Next Post"
+msgstr ""
+
+#: functions.php:3661
+#@ Lawyer
+msgid "Header 2 Menu"
+msgstr ""
+
+#: functions.php:3662
+#@ Lawyer
+msgid "Header Right Menu"
+msgstr ""
+
+#: functions.php:3663
+#@ Lawyer
+msgid "Header Left Menu"
+msgstr ""
+
+#: functions.php:3664
+#@ Lawyer
+msgid "Responsive Menu"
+msgstr ""
+
+#: functions.php:3665
+#: include/theme-options/theme_options.php:549
+#@ Lawyer
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:3760
+#@ Lawyer
+msgid "Filter By"
+msgstr ""
+
+#: functions.php:3761
+#: include/theme-components/cs-posttypes/pt_practice.php:62
+#: include/theme-components/cs-posttypes/pt_team.php:62
+#@ Lawyer
+msgid "Categories"
+msgstr ""
+
+#: functions.php:3765
+#@ Lawyer
+msgid "Show All"
+msgstr ""
+
+#: functions.php:3767
+#@ Lawyer
+msgid "Date Published"
+msgstr ""
+
+#: functions.php:3768
+#@ Lawyer
+msgid "Alphabetical"
+msgstr ""
+
+#: functions.php:3775
+#@ Lawyer
+msgid "All Categories"
+msgstr ""
+
+#: functions.php:3908
+#@ Lawyer
+msgid "Like This"
+msgstr ""
+
+#: functions.php:3963
+#@ Lawyer
+msgid "subscribe successfully"
+msgstr ""
+
+#: functions.php:3967
+#@ Lawyer
+msgid "please set API key"
+msgstr ""
+
+#: functions.php:4094
+#: page_contact_submit.php:39
+#@ Lawyer
+msgid "IP Address"
+msgstr ""
+
+#: include/admin_functions.php:60
+#@ Lawyer
+msgid "Typography"
+msgstr ""
+
+#: include/admin_functions.php:60
+#@ Lawyer
+msgid "Common Elements"
+msgstr ""
+
+#: include/admin_functions.php:60
+#@ Lawyer
+msgid "Media Element"
+msgstr ""
+
+#: include/admin_functions.php:60
+#@ Lawyer
+msgid "Content Blocks"
+msgstr ""
+
+#: include/admin_functions.php:60
+#@ Lawyer
+msgid "Loops"
+msgstr ""
+
+#: include/admin_functions.php:194
+#: include/shortcodes/shortcode_functions.php:1692
+#@ Lawyer
+msgid "Search"
+msgstr ""
+
+#: include/admin_functions.php:196
+#: include/shortcodes/shortcode_functions.php:1694
+#@ Lawyer
+msgid "Filter by"
+msgstr ""
+
+#: include/admin_functions.php:198
+#: include/shortcodes/shortcode_functions.php:1696
+#@ Lawyer
+msgid "Show all"
+msgstr ""
+
+#: include/admin_functions.php:218
+#: include/shortcodes/shortcode_functions.php:1717
+#@ Lawyer
+msgid "CS: Insert shortcode"
+msgstr ""
+
+#: include/admin_functions.php:223
+#: include/shortcodes/shortcode_functions.php:1682
+#@ Lawyer
+msgid "Add Element"
+msgstr ""
+
+#: include/admin_functions.php:308
+#@ Lawyer
+msgid "Edit Page Section"
+msgstr ""
+
+#: include/admin_functions.php:313
+#: include/page_options.php:398
+#@ Lawyer
+msgid "Background View"
+msgstr ""
+
+#: include/admin_functions.php:319
+#: include/page_options.php:567
+#: include/shortcodes/typography_elements.php:924
+#@ Lawyer
+msgid "None"
+msgstr ""
+
+#: include/admin_functions.php:320
+#: include/admin_functions.php:331
+#: include/page_options.php:281
+#: include/page_options.php:448
+#: include/page_options.php:606
+#: include/shortcodes/common_elements.php:1261
+#: include/shortcodes/media_elements.php:356
+#: include/shortcodes/shortcode_functions.php:2242
+#: include/theme-options/theme_options.php:512
+#: include/theme-options/theme_options.php:681
+#@ Lawyer
+msgid "Background Image"
+msgstr ""
+
+#: include/admin_functions.php:321
+#: include/admin_functions.php:376
+#: include/shortcodes/shortcode_elements.php:77
+#@ Lawyer
+msgid "Custom Slider"
+msgstr ""
+
+#: include/admin_functions.php:322
+#: include/shortcodes/shortcode_functions.php:1623
+#@ Lawyer
+msgid "Video"
+msgstr ""
+
+#: include/admin_functions.php:335
+#: include/admin_functions.php:394
+#: include/admin_functions.php:962
+#: include/admin_functions.php:1335
+#: include/page_options.php:285
+#: include/page_options.php:454
+#: include/shortcodes/common_elements.php:688
+#: include/shortcodes/common_elements.php:1265
+#: include/shortcodes/common_elements.php:1504
+#: include/shortcodes/common_elements.php:1955
+#: include/shortcodes/contentblock_elements.php:550
+#: include/shortcodes/contentblock_elements.php:799
+#: include/shortcodes/loops_elements.php:189
+#: include/shortcodes/loops_elements.php:747
+#: include/shortcodes/media_elements.php:216
+#: include/shortcodes/media_elements.php:360
+#: include/shortcodes/shortcode_functions.php:1931
+#: include/shortcodes/shortcode_functions.php:2246
+#: include/shortcodes/shortcode_functions.php:2319
+#: include/shortcodes/shortcode_functions.php:2509
+#: include/shortcodes/shortcode_functions.php:2568
+#: include/shortcodes/typography_elements.php:1454
+#: include/theme-components/cs-widgets/widgets.php:889
+#: include/theme-options/theme_options_fields.php:973
+#: include/theme-options/theme_options_fields.php:1013
+#: include/theme-options/theme_options_fields.php:1064
+#: include/theme-options/theme_options_fields.php:1112
+#: include/theme-options/theme_options_fields.php:1217
+#: include/theme-options/theme_options_fields.php:1309
+#@ Lawyer
+msgid "Browse"
+msgstr ""
+
+#: include/admin_functions.php:353
+#@ Lawyer
+msgid "Background Image Position"
+msgstr ""
+
+#: include/admin_functions.php:359
+#@ Lawyer
+msgid "Select position"
+msgstr ""
+
+#: include/admin_functions.php:360
+#: include/page_options.php:161
+#: include/shortcodes/common_elements.php:151
+#: include/shortcodes/common_elements.php:1466
+#: include/shortcodes/common_elements.php:2014
+#: include/shortcodes/media_elements.php:430
+#: include/shortcodes/typography_elements.php:222
+#: include/shortcodes/typography_elements.php:745
+#@ Lawyer
+msgid "Left"
+msgstr ""
+
+#: include/admin_functions.php:361
+#: include/page_options.php:162
+#: include/shortcodes/common_elements.php:152
+#: include/shortcodes/common_elements.php:1467
+#: include/shortcodes/common_elements.php:2015
+#: include/shortcodes/media_elements.php:431
+#: include/shortcodes/shortcode_functions.php:1910
+#: include/shortcodes/typography_elements.php:224
+#: include/shortcodes/typography_elements.php:747
+#@ Lawyer
+msgid "Right"
+msgstr ""
+
+#: include/admin_functions.php:362
+#: include/page_options.php:163
+#: include/shortcodes/shortcode_functions.php:1912
+#: include/shortcodes/typography_elements.php:746
+#@ Lawyer
+msgid "Center"
+msgstr ""
+
+#: include/admin_functions.php:363
+#@ Lawyer
+msgid "Repeat"
+msgstr ""
+
+#: include/admin_functions.php:388
+#: include/admin_functions.php:895
+#: include/page_options.php:418
+#: include/shortcodes/media_elements.php:72
+#@ Lawyer
+msgid "Video Url"
+msgstr ""
+
+#: include/admin_functions.php:398
+#@ Lawyer
+msgid "Please enter Vimeo/Youtube Video Url"
+msgstr ""
+
+#: include/admin_functions.php:404
+#@ Lawyer
+msgid "Enable Mute"
+msgstr ""
+
+#: include/admin_functions.php:419
+#@ Lawyer
+msgid "Video Auto Play"
+msgstr ""
+
+#: include/admin_functions.php:435
+#@ Lawyer
+msgid "Enable Parallax"
+msgstr ""
+
+#: include/admin_functions.php:450
+#@ Lawyer
+msgid "Select View"
+msgstr ""
+
+#: include/admin_functions.php:456
+#: include/shortcodes/typography_elements.php:448
+#@ Lawyer
+msgid "Box"
+msgstr ""
+
+#: include/admin_functions.php:457
+#@ Lawyer
+msgid "Wide"
+msgstr ""
+
+#: include/admin_functions.php:465
+#: include/page_options.php:238
+#: include/page_options.php:495
+#: include/page_options.php:625
+#: include/page_options.php:868
+#: include/shortcodes/common_elements.php:738
+#: include/shortcodes/common_elements.php:1284
+#: include/shortcodes/common_elements.php:1988
+#: include/shortcodes/contentblock_elements.php:87
+#: include/shortcodes/loops_elements.php:164
+#: include/shortcodes/shortcode_functions.php:2338
+#: include/shortcodes/shortcode_functions.php:2491
+#: include/shortcodes/typography_elements.php:473
+#: include/shortcodes/typography_elements.php:585
+#: include/shortcodes/typography_elements.php:1221
+#: include/theme-components/cs-widgets/widgets.php:76
+#: include/theme-options/theme_options.php:519
+#: include/theme-options/theme_options.php:658
+#: include/theme-options/theme_options.php:811
+#: include/theme-options/theme_options.php:838
+#: include/theme-options/theme_options.php:871
+#@ Lawyer
+msgid "Background Color"
+msgstr ""
+
+#: include/admin_functions.php:475
+#: include/page_options.php:220
+#: include/theme-options/theme_options.php:615
+#@ Lawyer
+msgid "Padding Top"
+msgstr ""
+
+#: include/admin_functions.php:481
+#@ Lawyer
+msgid "Set the Padding top (In px)"
+msgstr ""
+
+#: include/admin_functions.php:487
+#: include/page_options.php:228
+#: include/theme-options/theme_options.php:624
+#@ Lawyer
+msgid "Padding Bottom"
+msgstr ""
+
+#: include/admin_functions.php:493
+#@ Lawyer
+msgid "Set the Padding Bottom (In px)"
+msgstr ""
+
+#: include/admin_functions.php:499
+#: include/shortcodes/typography_elements.php:93
+#@ Lawyer
+msgid "Margin Top"
+msgstr ""
+
+#: include/admin_functions.php:505
+#: include/admin_functions.php:541
+#@ Lawyer
+msgid "Set the Border Bottom (In px)"
+msgstr ""
+
+#: include/admin_functions.php:511
+#: include/shortcodes/typography_elements.php:103
+#@ Lawyer
+msgid "Margin Bottom"
+msgstr ""
+
+#: include/admin_functions.php:517
+#@ Lawyer
+msgid "Set the Margin Bottom (In px)"
+msgstr ""
+
+#: include/admin_functions.php:523
+#@ Lawyer
+msgid "Border Top"
+msgstr ""
+
+#: include/admin_functions.php:529
+#@ Lawyer
+msgid "Set the Border top (In px)"
+msgstr ""
+
+#: include/admin_functions.php:535
+#: include/shortcodes/typography_elements.php:937
+#@ Lawyer
+msgid "Border Bottom"
+msgstr ""
+
+#: include/admin_functions.php:547
+#: include/page_options.php:258
+#: include/shortcodes/common_elements.php:113
+#: include/shortcodes/contentblock_elements.php:628
+#: include/theme-options/theme_options.php:672
+#@ Lawyer
+msgid "Border Color"
+msgstr ""
+
+#: include/admin_functions.php:557
+#: include/page_options.php:661
+#: include/shortcodes/common_elements.php:759
+#: include/shortcodes/common_elements.php:979
+#: include/shortcodes/common_elements.php:1311
+#: include/shortcodes/common_elements.php:1587
+#: include/shortcodes/common_elements.php:1721
+#: include/shortcodes/common_elements.php:2072
+#: include/shortcodes/common_elements.php:2367
+#: include/shortcodes/loops_elements.php:109
+#: include/shortcodes/loops_elements.php:804
+#: include/shortcodes/loops_elements.php:1048
+#: include/shortcodes/loops_elements.php:1257
+#: include/shortcodes/shortcode_functions.php:1773
+#: include/shortcodes/shortcode_functions.php:1813
+#: include/shortcodes/shortcode_functions.php:1989
+#: include/shortcodes/shortcode_functions.php:2368
+#@ Lawyer
+msgid "Custom Id"
+msgstr ""
+
+#: include/admin_functions.php:568
+#@ Lawyer
+msgid "Select Layout"
+msgstr ""
+
+#: include/admin_functions.php:591
+#: include/page_options.php:757
+#@ Lawyer
+msgid "Select Left Sidebar"
+msgstr ""
+
+#: include/admin_functions.php:607
+#: include/admin_functions.php:626
+#: include/page_options.php:780
+#: include/page_options.php:811
+#@ Lawyer
+msgid "Add New Sidebar"
+msgstr ""
+
+#: include/admin_functions.php:607
+#: include/admin_functions.php:626
+#: include/page_options.php:780
+#: include/page_options.php:811
+#@ Lawyer
+msgid "Click Here"
+msgstr ""
+
+#: include/admin_functions.php:612
+#: include/page_options.php:786
+#@ Lawyer
+msgid "Select Right Sidebar"
+msgstr ""
+
+#: include/admin_functions.php:779
+#: include/admin_functions.php:869
+#@ Lawyer
+msgid "Edit Options"
+msgstr ""
+
+#: include/admin_functions.php:786
+#: include/admin_functions.php:874
+#@ Lawyer
+msgid "Image Title"
+msgstr ""
+
+#: include/admin_functions.php:794
+#@ Lawyer
+msgid "Image Description"
+msgstr ""
+
+#: include/admin_functions.php:802
+#: include/shortcodes/loops_elements.php:1328
+#: include/shortcodes/shortcode_functions.php:2130
+#: include/shortcodes/shortcode_functions.php:2356
+#: include/shortcodes/shortcode_functions.php:2602
+#@ Lawyer
+msgid "Link"
+msgstr ""
+
+#: include/admin_functions.php:810
+#@ Lawyer
+msgid "Link Target"
+msgstr ""
+
+#: include/admin_functions.php:817
+#@ Lawyer
+msgid "Please select image target"
+msgstr ""
+
+#: include/admin_functions.php:882
+#@ Lawyer
+msgid "Use Image As"
+msgstr ""
+
+#: include/admin_functions.php:886
+#@ Lawyer
+msgid "LightBox to current thumbnail"
+msgstr ""
+
+#: include/admin_functions.php:887
+#@ Lawyer
+msgid "LightBox to Video"
+msgstr ""
+
+#: include/admin_functions.php:888
+#: include/admin_functions.php:904
+#: include/shortcodes/media_elements.php:445
+#@ Lawyer
+msgid "Link Url"
+msgstr ""
+
+#: include/admin_functions.php:890
+#@ Lawyer
+msgid "Please select Image link where it will go"
+msgstr ""
+
+#: include/admin_functions.php:899
+#@ Lawyer
+msgid "Enter Specific Video URL Youtube or Vimeo"
+msgstr ""
+
+#: include/admin_functions.php:908
+#@ Lawyer
+msgid "Enter Specific Link Url"
+msgstr ""
+
+#: include/admin_functions.php:944
+#@ Lawyer
+msgid "Settings"
+msgstr ""
+
+#: include/admin_functions.php:950
+#: include/admin_functions.php:1315
+#: include/admin_functions.php:1525
+#: include/admin_functions.php:1551
+#: include/admin_functions.php:1680
+#: include/admin_functions.php:1705
+#: include/page_options.php:171
+#: include/shortcodes/common_elements.php:654
+#: include/shortcodes/common_elements.php:1216
+#: include/shortcodes/common_elements.php:2023
+#: include/shortcodes/contentblock_elements.php:79
+#: include/shortcodes/contentblock_elements.php:180
+#: include/shortcodes/contentblock_elements.php:462
+#: include/shortcodes/contentblock_elements.php:817
+#: include/shortcodes/loops_elements.php:156
+#: include/shortcodes/loops_elements.php:1106
+#: include/shortcodes/loops_elements.php:1314
+#: include/shortcodes/media_elements.php:242
+#: include/shortcodes/media_elements.php:393
+#: include/shortcodes/shortcode_functions.php:2100
+#: include/shortcodes/shortcode_functions.php:2124
+#: include/shortcodes/shortcode_functions.php:2437
+#: include/shortcodes/shortcode_functions.php:2484
+#: include/shortcodes/shortcode_functions.php:2586
+#: include/shortcodes/typography_elements.php:691
+#: include/shortcodes/typography_elements.php:1132
+#: include/theme-components/cs-widgets/widgets.php:48
+#: include/theme-components/cs-widgets/widgets.php:507
+#: include/theme-components/cs-widgets/widgets.php:704
+#: include/theme-components/cs-widgets/widgets.php:1026
+#: include/theme-options/theme_options_fields.php:1194
+#: include/theme-options/theme_options_fields.php:1289
+#@ Lawyer
+msgid "Title"
+msgstr ""
+
+#: include/admin_functions.php:958
+#@ Lawyer
+msgid "icon/image Url"
+msgstr ""
+
+#: include/admin_functions.php:963
+#@ Lawyer
+msgid "Put Fontawsome icon/image url. You can get fontawsome icons from"
+msgstr ""
+
+#: include/admin_functions.php:963
+#@ Lawyer
+msgid "http://fortawesome.github.io/Font-Awesome/icons/"
+msgstr ""
+
+#: include/admin_functions.php:963
+#: include/page_options.php:488
+#@ Lawyer
+msgid "here"
+msgstr ""
+
+#: include/admin_functions.php:968
+#: include/shortcodes/loops_elements.php:1120
+#: include/shortcodes/loops_elements.php:1342
+#: include/shortcodes/shortcode_functions.php:2106
+#: include/shortcodes/shortcode_functions.php:2136
+#: include/shortcodes/shortcode_functions.php:2226
+#: include/shortcodes/shortcode_functions.php:2364
+#: include/shortcodes/typography_elements.php:1254
+#: include/shortcodes/typography_elements.php:1417
+#@ Lawyer
+msgid "Text"
+msgstr ""
+
+#: include/admin_functions.php:1099
+#@ Lawyer
+msgid "Edit Members Options"
+msgstr ""
+
+#: include/admin_functions.php:1114
+#@ Lawyer
+msgid "Member Views"
+msgstr ""
+
+#: include/admin_functions.php:1118
+#@ Lawyer
+msgid "Number View"
+msgstr ""
+
+#: include/admin_functions.php:1119
+#: include/shortcodes/loops_elements.php:81
+#@ Lawyer
+msgid "Grid View"
+msgstr ""
+
+#: include/admin_functions.php:1125
+#@ Lawyer
+msgid "Roles"
+msgstr ""
+
+#: include/admin_functions.php:1149
+#: include/admin_functions.php:1160
+#: include/admin_functions.php:1171
+#: include/shortcodes/contentblock_elements.php:573
+#: include/shortcodes/contentblock_elements.php:586
+#: include/shortcodes/contentblock_elements.php:597
+#: include/shortcodes/contentblock_elements.php:608
+#: include/shortcodes/typography_elements.php:758
+#: include/shortcodes/typography_elements.php:1749
+#@ Lawyer
+msgid "On"
+msgstr ""
+
+#: include/admin_functions.php:1150
+#: include/admin_functions.php:1161
+#: include/admin_functions.php:1172
+#: include/shortcodes/contentblock_elements.php:574
+#: include/shortcodes/contentblock_elements.php:585
+#: include/shortcodes/contentblock_elements.php:598
+#: include/shortcodes/contentblock_elements.php:609
+#: include/shortcodes/typography_elements.php:759
+#: include/shortcodes/typography_elements.php:1750
+#@ Lawyer
+msgid "Off"
+msgstr ""
+
+#: include/admin_functions.php:1156
+#@ Lawyer
+msgid "Show All Tab"
+msgstr ""
+
+#: include/admin_functions.php:1167
+#@ Lawyer
+msgid "Profile Link On/Off"
+msgstr ""
+
+#: include/admin_functions.php:1189
+#@ Lawyer
+msgid "No. of Members Per Page"
+msgstr ""
+
+#: include/admin_functions.php:1319
+#: include/theme-options/theme_options_fields.php:1293
+#@ Lawyer
+msgid "Please enter text for icon tooltip"
+msgstr ""
+
+#: include/admin_functions.php:1322
+#: include/shortcodes/common_elements.php:1562
+#: include/shortcodes/common_elements.php:2063
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:122
+#: include/theme-options/theme_options_fields.php:1203
+#: include/theme-options/theme_options_fields.php:1259
+#: include/theme-options/theme_options_fields.php:1297
+#@ Lawyer
+msgid "Url"
+msgstr ""
+
+#: include/admin_functions.php:1326
+#: include/theme-options/theme_options_fields.php:1207
+#: include/theme-options/theme_options_fields.php:1301
+#@ Lawyer
+msgid "Please enter full Url"
+msgstr ""
+
+#: include/admin_functions.php:1330
+#: include/theme-options/theme_options_fields.php:1211
+#: include/theme-options/theme_options_fields.php:1257
+#: include/theme-options/theme_options_fields.php:1305
+#@ Lawyer
+msgid "Icon Path"
+msgstr ""
+
+#: include/admin_functions.php:1341
+#: include/shortcodes/common_elements.php:138
+#: include/shortcodes/common_elements.php:1243
+#: include/shortcodes/common_elements.php:1477
+#: include/shortcodes/shortcode_functions.php:1900
+#: include/shortcodes/shortcode_functions.php:2039
+#: include/shortcodes/shortcode_functions.php:2077
+#: include/shortcodes/shortcode_functions.php:2201
+#: include/shortcodes/shortcode_functions.php:2302
+#: include/shortcodes/shortcode_functions.php:2407
+#: include/shortcodes/shortcode_functions.php:2426
+#: include/shortcodes/typography_elements.php:982
+#: include/shortcodes/typography_elements.php:1163
+#: include/theme-components/cs-posttypes/pt_practice.php:153
+#: include/theme-options/theme_options_fields.php:1222
+#: include/theme-options/theme_options_fields.php:1316
+#@ Lawyer
+msgid "Select Icon"
+msgstr ""
+
+#: include/admin_functions.php:1349
+#: include/shortcodes/common_elements.php:1252
+#: include/shortcodes/common_elements.php:1486
+#: include/shortcodes/common_elements.php:1937
+#: include/shortcodes/contentblock_elements.php:170
+#: include/shortcodes/contentblock_elements.php:333
+#: include/shortcodes/shortcode_functions.php:1977
+#: include/shortcodes/shortcode_functions.php:2308
+#: include/shortcodes/shortcode_functions.php:2432
+#: include/shortcodes/typography_elements.php:1171
+#: include/theme-options/theme_options_fields.php:1229
+#: include/theme-options/theme_options_fields.php:1324
+#@ Lawyer
+msgid "Icon Color"
+msgstr ""
+
+#: include/admin_functions.php:1518
+#: include/admin_functions.php:1519
+#@ Lawyer
+msgid "Add Education"
+msgstr ""
+
+#: include/admin_functions.php:1526
+#: include/admin_functions.php:1681
+#: include/theme-options/theme_options_fields.php:1147
+#: include/theme-options/theme_options_fields.php:1260
+#@ Lawyer
+msgid "Actions"
+msgstr ""
+
+#: include/admin_functions.php:1547
+#: include/admin_functions.php:1601
+#@ Lawyer
+msgid "Education Settings"
+msgstr ""
+
+#: include/admin_functions.php:1559
+#@ Lawyer
+msgid "Date"
+msgstr ""
+
+#: include/admin_functions.php:1567
+#: include/admin_functions.php:1623
+#@ Lawyer
+msgid "Education Description"
+msgstr ""
+
+#: include/admin_functions.php:1607
+#@ Lawyer
+msgid "Education Title"
+msgstr ""
+
+#: include/admin_functions.php:1615
+#@ Lawyer
+msgid "Education Date"
+msgstr ""
+
+#: include/admin_functions.php:1673
+#: include/admin_functions.php:1674
+#@ Lawyer
+msgid "Add practice"
+msgstr ""
+
+#: include/admin_functions.php:1701
+#: include/admin_functions.php:1747
+#@ Lawyer
+msgid "practice Settings"
+msgstr ""
+
+#: include/admin_functions.php:1713
+#: include/admin_functions.php:1761
+#@ Lawyer
+msgid "practice Description"
+msgstr ""
+
+#: include/admin_functions.php:1753
+#@ Lawyer
+msgid "practice Title"
+msgstr ""
+
+#: include/page_builder.php:6
+#@ Lawyer
+msgid "CS Page Options"
+msgstr ""
+
+#: include/page_builder.php:9
+#@ Lawyer
+msgid "CS Page Builder"
+msgstr ""
+
+#: include/page_builder.php:49
+#@ Lawyer
+msgid "Add Page Sections"
+msgstr ""
+
+#: include/page_builder.php:252
+#: include/post_meta.php:47
+#@ Lawyer
+msgid "General Settings"
+msgstr ""
+
+#: include/page_builder.php:253
+#@ Lawyer
+msgid "Sub header"
+msgstr ""
+
+#: include/page_builder.php:255
+#: include/post_meta.php:50
+#: include/post_meta.php:71
+#: include/theme-components/cs-posttypes/pt_casestudy.php:121
+#: include/theme-components/cs-posttypes/pt_practice.php:114
+#: include/theme-components/cs-posttypes/pt_team.php:144
+#@ Lawyer
+msgid "Seo Options"
+msgstr ""
+
+#: include/page_builder.php:258
+#: include/theme-components/cs-posttypes/pt_casestudy.php:118
+#: include/theme-components/cs-posttypes/pt_practice.php:111
+#: include/theme-components/cs-posttypes/pt_team.php:141
+#@ Lawyer
+msgid "Header Absolute"
+msgstr ""
+
+#: include/page_options.php:31
+#@ Lawyer
+msgid "Social Sharing"
+msgstr ""
+
+#: include/page_options.php:55
+#: single.php:304
+#@ Lawyer
+msgid "Related Posts"
+msgstr ""
+
+#: include/page_options.php:67
+#@ Lawyer
+msgid "Next Previous"
+msgstr ""
+
+#: include/page_options.php:79
+#@ Lawyer
+msgid "Show Author"
+msgstr ""
+
+#: include/page_options.php:127
+#@ Lawyer
+msgid "Choose Sub header"
+msgstr ""
+
+#: include/page_options.php:134
+#@ Lawyer
+msgid "Default Sub header"
+msgstr ""
+
+#: include/page_options.php:135
+#@ Lawyer
+msgid "Custom Sub header"
+msgstr ""
+
+#: include/page_options.php:136
+#: include/page_options.php:568
+#: include/theme-options/theme_options.php:163
+#: include/theme-options/theme_options.php:504
+#: include/theme-options/theme_options.php:607
+#@ Lawyer
+msgid "Revolution Slider"
+msgstr ""
+
+#: include/page_options.php:137
+#: include/shortcodes/shortcode_functions.php:1495
+#@ Lawyer
+msgid "Map"
+msgstr ""
+
+#: include/page_options.php:138
+#@ Lawyer
+msgid "No Sub header"
+msgstr ""
+
+#: include/page_options.php:155
+#: include/shortcodes/media_elements.php:426
+#@ Lawyer
+msgid "Text Align"
+msgstr ""
+
+#: include/page_options.php:182
+#@ Lawyer
+msgid "Sub Heading"
+msgstr ""
+
+#: include/page_options.php:192
+#: include/theme-options/theme_options.php:650
+#@ Lawyer
+msgid "Breadcrumbs"
+msgstr ""
+
+#: include/page_options.php:203
+#@ Lawyer
+msgid "Padding"
+msgstr ""
+
+#: include/page_options.php:209
+#: include/shortcodes/common_elements.php:304
+#: include/shortcodes/loops_elements.php:497
+#: include/theme-options/theme_options.php:582
+#@ Lawyer
+msgid "Default"
+msgstr ""
+
+#: include/page_options.php:210
+#@ Lawyer
+msgid "Custom"
+msgstr ""
+
+#: include/page_options.php:224
+#@ Lawyer
+msgid "Set the top padding (In PX)"
+msgstr ""
+
+#: include/page_options.php:232
+#@ Lawyer
+msgid "Set the bottom padding (In PX)"
+msgstr ""
+
+#: include/page_options.php:248
+#: include/shortcodes/common_elements.php:1234
+#: include/shortcodes/contentblock_elements.php:98
+#: include/shortcodes/loops_elements.php:919
+#: include/shortcodes/typography_elements.php:1213
+#: include/shortcodes/typography_elements.php:1384
+#: include/shortcodes/typography_elements.php:1608
+#: include/theme-options/theme_options.php:665
+#: include/theme-options/theme_options.php:846
+#@ Lawyer
+msgid "Text Color"
+msgstr ""
+
+#: include/page_options.php:270
+#@ Lawyer
+msgid "Show Image"
+msgstr ""
+
+#: include/page_options.php:303
+#@ Lawyer
+msgid "Parallax Background Image"
+msgstr ""
+
+#: include/page_options.php:317
+#: include/page_options.php:577
+#@ Lawyer
+msgid "Select Slider"
+msgstr ""
+
+#: include/page_options.php:336
+#: include/page_options.php:598
+#@ Lawyer
+msgid "Please select Revolution Slider if already included in package. Otherwise buy Sliders from"
+msgstr ""
+
+#: include/page_options.php:336
+#: include/page_options.php:598
+#@ Lawyer
+msgid "http://codecanyon.net/"
+msgstr ""
+
+#: include/page_options.php:336
+#@ Lawyer
+msgid "Codecanyon"
+msgstr ""
+
+#: include/page_options.php:336
+#: include/page_options.php:598
+#@ Lawyer
+msgid "But its optional"
+msgstr ""
+
+#: include/page_options.php:342
+#@ Lawyer
+msgid "Select Slider Position"
+msgstr ""
+
+#: include/page_options.php:347
+#@ Lawyer
+msgid "Below Header"
+msgstr ""
+
+#: include/page_options.php:348
+#@ Lawyer
+msgid "Above Header"
+msgstr ""
+
+#: include/page_options.php:357
+#@ Lawyer
+msgid "Custom Map Short Code"
+msgstr ""
+
+#: include/page_options.php:364
+#@ Lawyer
+msgid "Please Add/Edit the short code for Map."
+msgstr ""
+
+#: include/page_options.php:373
+#: include/theme-options/theme_options.php:599
+#@ Lawyer
+msgid "Header Border Color"
+msgstr ""
+
+#: include/page_options.php:404
+#@ Lawyer
+msgid "No Image"
+msgstr ""
+
+#: include/page_options.php:405
+#@ Lawyer
+msgid "V1 Custom Background Image"
+msgstr ""
+
+#: include/page_options.php:406
+#@ Lawyer
+msgid "V2 Big Image Zoom"
+msgstr ""
+
+#: include/page_options.php:407
+#@ Lawyer
+msgid "V3 Fade Slider"
+msgstr ""
+
+#: include/page_options.php:408
+#@ Lawyer
+msgid "V4 Left Slide"
+msgstr ""
+
+#: include/page_options.php:409
+#@ Lawyer
+msgid "V6 Video"
+msgstr ""
+
+#: include/page_options.php:425
+#@ Lawyer
+msgid "Please enter Vimeo/Youtube Video Url."
+msgstr ""
+
+#: include/page_options.php:431
+#@ Lawyer
+msgid "Choose Mute"
+msgstr ""
+
+#: include/page_options.php:466
+#@ Lawyer
+msgid "Choose Slider/Gallery"
+msgstr ""
+
+#: include/page_options.php:488
+#@ Lawyer
+msgid "Slider/Gallery images resolution should be full size. Create new Slider/Gallery from"
+msgstr ""
+
+#: include/page_options.php:517
+#@ Lawyer
+msgid "Seo Title"
+msgstr ""
+
+#: include/page_options.php:527
+#@ Lawyer
+msgid "Seo Description"
+msgstr ""
+
+#: include/page_options.php:537
+#@ Lawyer
+msgid "Seo Keywords"
+msgstr ""
+
+#: include/page_options.php:562
+#: include/theme-options/theme_options.php:496
+#@ Lawyer
+msgid "Header Background"
+msgstr ""
+
+#: include/page_options.php:569
+#@ Lawyer
+msgid "Background Image / Background Color"
+msgstr ""
+
+#: include/page_options.php:671
+#@ Lawyer
+msgid "Sub Header Color"
+msgstr ""
+
+#: include/page_options.php:681
+#@ Lawyer
+msgid "Header Color"
+msgstr ""
+
+#: include/page_options.php:734
+#@ Lawyer
+msgid "Choose Sidebar"
+msgstr ""
+
+#: include/page_options.php:742
+#: include/theme-options/theme_options.php:274
+#@ Lawyer
+msgid "Full Width"
+msgstr ""
+
+#: include/page_options.php:746
+#@ Lawyer
+msgid "Sidebar Right"
+msgstr ""
+
+#: include/page_options.php:750
+#: include/theme-options/theme_options.php:1389
+#: include/theme-options/theme_options.php:1417
+#@ Lawyer
+msgid "sidebar left"
+msgstr ""
+
+#: include/page_options.php:828
+#@ Lawyer
+msgid "Page Options"
+msgstr ""
+
+#: include/page_options.php:835
+#: include/shortcodes/common_elements.php:968
+#@ Lawyer
+msgid "default"
+msgstr ""
+
+#: include/page_options.php:878
+#@ Lawyer
+msgid "Background Skin"
+msgstr ""
+
+#: include/page_options.php:884
+#@ Lawyer
+msgid "Light"
+msgstr ""
+
+#: include/page_options.php:885
+#@ Lawyer
+msgid "Dark"
+msgstr ""
+
+#: include/post_meta.php:5
+#@ Lawyer
+msgid "Post Options"
+msgstr ""
+
+#: include/post_meta.php:48
+#@ Lawyer
+msgid "Sub Header Options"
+msgstr ""
+
+#: include/post_meta.php:52
+#@ Lawyer
+msgid "Post Settings"
+msgstr ""
+
+#: include/post_meta.php:173
+#@ Lawyer
+msgid "Thumbnail View"
+msgstr ""
+
+#: include/post_meta.php:178
+#: include/post_meta.php:225
+#@ Lawyer
+msgid "Single Image"
+msgstr ""
+
+#: include/post_meta.php:179
+#: include/post_meta.php:228
+#: include/shortcodes/shortcode_functions.php:1553
+#@ Lawyer
+msgid "Slider"
+msgstr ""
+
+#: include/post_meta.php:184
+#: include/post_meta.php:233
+#@ Lawyer
+msgid "Use Featured Image as Thumbnail"
+msgstr ""
+
+#: include/post_meta.php:188
+#: include/post_meta.php:237
+#@ Lawyer
+msgid "Audio Url"
+msgstr ""
+
+#: include/post_meta.php:197
+#: include/post_meta.php:246
+#@ Lawyer
+msgid "Enter Specific Audio Url (Youtube, Vimeo and all others wordpress supported)"
+msgstr ""
+
+#: include/post_meta.php:202
+#: include/post_meta.php:251
+#@ Lawyer
+msgid "Thumbnail Video Url"
+msgstr ""
+
+#: include/post_meta.php:211
+#: include/post_meta.php:260
+#@ Lawyer
+msgid "Enter Specific Video Url (Youtube, Vimeo and all others wordpress supported) OR you can select it from your media library"
+msgstr ""
+
+#: include/post_meta.php:220
+#@ Lawyer
+msgid "Inside Post Thumbnail View"
+msgstr ""
+
+#: include/post_meta.php:226
+#@ Lawyer
+msgid "Audio"
+msgstr ""
+
+#: include/post_meta.php:227
+#@ Lawyer
+msgid "Video/Soundcloud"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:64
+#@ Lawyer
+msgid "Edit Button Options"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:70
+#: include/shortcodes/contentblock_elements.php:746
+#: include/shortcodes/shortcode_functions.php:1730
+#@ Lawyer
+msgid "Size"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:75
+#: include/shortcodes/common_elements.php:1981
+#@ Lawyer
+msgid "Extra Large"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:76
+#: include/shortcodes/common_elements.php:1980
+#: include/shortcodes/contentblock_elements.php:326
+#@ Lawyer
+msgid "Large"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:77
+#: include/shortcodes/common_elements.php:1979
+#: include/shortcodes/contentblock_elements.php:325
+#: include/shortcodes/loops_elements.php:501
+#: include/shortcodes/shortcode_functions.php:1893
+#@ Lawyer
+msgid "Medium"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:78
+#: include/shortcodes/common_elements.php:1978
+#: include/shortcodes/contentblock_elements.php:324
+#: include/shortcodes/loops_elements.php:499
+#: include/shortcodes/shortcode_functions.php:1894
+#@ Lawyer
+msgid "Small"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:80
+#: include/shortcodes/contentblock_elements.php:754
+#: include/shortcodes/shortcode_functions.php:1740
+#@ Lawyer
+msgid "Select column width. This width will be calculated depend page width"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:85
+#@ Lawyer
+msgid "Button Title"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:93
+#: include/shortcodes/common_elements.php:1302
+#: include/shortcodes/typography_elements.php:1188
+#@ Lawyer
+msgid "Button Link"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:97
+#@ Lawyer
+msgid "Button external & internal Url"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:102
+#: include/shortcodes/contentblock_elements.php:616
+#: include/shortcodes/loops_elements.php:99
+#: include/shortcodes/shortcode_functions.php:1954
+#@ Lawyer
+msgid "Border"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:121
+#: include/shortcodes/media_elements.php:454
+#@ Lawyer
+msgid "Button Background Color"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:129
+#: include/shortcodes/shortcode_functions.php:2360
+#@ Lawyer
+msgid "Button Color"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:133
+#@ Lawyer
+msgid "Select a color which you want on the buttons"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:142
+#: include/shortcodes/common_elements.php:372
+#: include/shortcodes/common_elements.php:514
+#: include/shortcodes/common_elements.php:1932
+#: include/shortcodes/shortcode_functions.php:2044
+#: include/shortcodes/shortcode_functions.php:2205
+#@ Lawyer
+msgid "Select the fontawsome Icons you would like to add to your menu items"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:147
+#@ Lawyer
+msgid "Button Icon Position"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:154
+#@ Lawyer
+msgid "Set a position for the button"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:159
+#@ Lawyer
+msgid "Button Type"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:163
+#: include/shortcodes/contentblock_elements.php:314
+#: include/shortcodes/shortcode_functions.php:1921
+#@ Lawyer
+msgid "Square"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:164
+#@ Lawyer
+msgid "Rounded"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:165
+#@ Lawyer
+msgid "3D"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:167
+#@ Lawyer
+msgid "Select the display type for the button"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:172
+#@ Lawyer
+msgid "Target"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:176
+#@ Lawyer
+msgid "Blank"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:177
+#@ Lawyer
+msgid "Self"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:279
+#@ Lawyer
+msgid "Edit Tabs Options"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:293
+#: include/shortcodes/common_elements.php:497
+#: include/shortcodes/common_elements.php:956
+#: include/shortcodes/common_elements.php:1199
+#: include/shortcodes/common_elements.php:2226
+#: include/shortcodes/contentblock_elements.php:74
+#: include/shortcodes/contentblock_elements.php:457
+#: include/shortcodes/contentblock_elements.php:766
+#: include/shortcodes/loops_elements.php:1040
+#: include/shortcodes/loops_elements.php:1249
+#: include/shortcodes/media_elements.php:67
+#: include/shortcodes/media_elements.php:194
+#: include/shortcodes/media_elements.php:351
+#: include/shortcodes/typography_elements.php:334
+#: include/shortcodes/typography_elements.php:439
+#: include/shortcodes/typography_elements.php:915
+#: include/shortcodes/typography_elements.php:1127
+#: include/shortcodes/typography_elements.php:1365
+#: include/shortcodes/typography_elements.php:1585
+#: include/shortcodes/typography_elements.php:1729
+#@ Lawyer
+msgid "This is used for the one page navigation, to identify the section below. Give a title"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:299
+#@ Lawyer
+msgid "Tab Style"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:305
+#@ Lawyer
+msgid "Vertical"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:337
+#: include/shortcodes/shortcode_functions.php:2185
+#@ Lawyer
+msgid "Tab"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:338
+#: include/shortcodes/common_elements.php:1039
+#: include/shortcodes/common_elements.php:1766
+#: include/shortcodes/common_elements.php:2419
+#: include/shortcodes/contentblock_elements.php:159
+#: include/shortcodes/contentblock_elements.php:792
+#: include/shortcodes/loops_elements.php:153
+#: include/shortcodes/loops_elements.php:1102
+#: include/shortcodes/loops_elements.php:1310
+#: include/shortcodes/shortcode_functions.php:1878
+#: include/shortcodes/shortcode_functions.php:2019
+#: include/shortcodes/shortcode_functions.php:2065
+#: include/shortcodes/shortcode_functions.php:2097
+#: include/shortcodes/shortcode_functions.php:2121
+#: include/shortcodes/shortcode_functions.php:2149
+#: include/shortcodes/shortcode_functions.php:2185
+#: include/shortcodes/shortcode_functions.php:2224
+#: include/shortcodes/shortcode_functions.php:2269
+#: include/shortcodes/shortcode_functions.php:2421
+#: include/shortcodes/shortcode_functions.php:2481
+#: include/shortcodes/shortcode_functions.php:2532
+#: include/shortcodes/shortcode_functions.php:2561
+#: include/shortcodes/typography_elements.php:969
+#: include/shortcodes/typography_elements.php:1414
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:217
+#@ Lawyer
+msgid "Remove"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:341
+#: include/shortcodes/common_elements.php:1042
+#: include/shortcodes/common_elements.php:2423
+#: include/shortcodes/shortcode_functions.php:2021
+#: include/shortcodes/shortcode_functions.php:2067
+#: include/shortcodes/shortcode_functions.php:2187
+#@ Lawyer
+msgid "Active"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:350
+#: include/shortcodes/common_elements.php:1052
+#: include/shortcodes/shortcode_functions.php:2026
+#: include/shortcodes/shortcode_functions.php:2191
+#@ Lawyer
+msgid "You can set the section that is active here by select dropdown"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:357
+#: include/shortcodes/shortcode_functions.php:2196
+#@ Lawyer
+msgid "Tab Title"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:367
+#@ Lawyer
+msgid "Tab Select Icon"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:378
+#: include/shortcodes/shortcode_functions.php:2210
+#@ Lawyer
+msgid "Tab Text"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:385
+#: include/shortcodes/shortcode_functions.php:2213
+#@ Lawyer
+msgid "Enter tab body content here"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:401
+#@ Lawyer
+msgid "Add Tab"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:486
+#@ Lawyer
+msgid "Edit Toggle Options"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:502
+#@ Lawyer
+msgid "Toggle Title"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:510
+#@ Lawyer
+msgid "Toggle Select Icon"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:519
+#@ Lawyer
+msgid "Toggle State"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:523
+#@ Lawyer
+msgid "Open"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:524
+#@ Lawyer
+msgid "Close"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:526
+#@ Lawyer
+msgid "Select this if you want toggle to be open by default"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:531
+#@ Lawyer
+msgid "Toggle Text"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:535
+#: include/shortcodes/media_elements.php:413
+#: include/shortcodes/typography_elements.php:485
+#: include/shortcodes/typography_elements.php:711
+#: include/shortcodes/typography_elements.php:1258
+#@ Lawyer
+msgid "Enter content here"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:630
+#@ Lawyer
+msgid "Edit Price Table Options"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:639
+#: include/shortcodes/common_elements.php:1898
+#: include/shortcodes/contentblock_elements.php:297
+#@ Lawyer
+msgid "Choose View"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:644
+#: include/shortcodes/media_elements.php:206
+#@ Lawyer
+msgid "Simple"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:647
+#@ Lawyer
+msgid "Choose a pricetable view"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:659
+#@ Lawyer
+msgid "set title for the item"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:665
+#@ Lawyer
+msgid "Title Background Color"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:673
+#@ Lawyer
+msgid "Price"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:678
+#@ Lawyer
+msgid "item Price"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:684
+#: include/shortcodes/common_elements.php:1453
+#: include/shortcodes/common_elements.php:1500
+#: include/shortcodes/common_elements.php:1919
+#: include/shortcodes/common_elements.php:1951
+#: include/shortcodes/contentblock_elements.php:795
+#: include/shortcodes/shortcode_functions.php:2294
+#: include/shortcodes/shortcode_functions.php:2315
+#: include/shortcodes/shortcode_functions.php:2564
+#: include/shortcodes/typography_elements.php:1450
+#: include/theme-components/cs-widgets/widgets.php:884
+#@ Lawyer
+msgid "Image"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:690
+#@ Lawyer
+msgid "set image for the item"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:709
+#@ Lawyer
+msgid "Time Duration"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:714
+#@ Lawyer
+msgid "set a time duration"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:720
+#@ Lawyer
+msgid "Table Column Color"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:725
+#: include/shortcodes/common_elements.php:1238
+#: include/shortcodes/common_elements.php:1288
+#: include/shortcodes/common_elements.php:1548
+#: include/shortcodes/common_elements.php:1992
+#: include/shortcodes/common_elements.php:2058
+#: include/shortcodes/contentblock_elements.php:104
+#: include/shortcodes/typography_elements.php:580
+#: include/shortcodes/typography_elements.php:589
+#: include/shortcodes/typography_elements.php:1613
+#@ Lawyer
+msgid "Provide a hex colour code here (include #) if you want to override the default"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:731
+#: include/shortcodes/common_elements.php:1293
+#: include/shortcodes/typography_elements.php:1180
+#@ Lawyer
+msgid "Button Text"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:740
+#@ Lawyer
+msgid "Text color on the button,If you want to override the default"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:764
+#: include/shortcodes/common_elements.php:1315
+#: include/shortcodes/common_elements.php:1591
+#: include/shortcodes/common_elements.php:1725
+#: include/shortcodes/common_elements.php:2076
+#: include/shortcodes/contentblock_elements.php:115
+#: include/shortcodes/shortcode_functions.php:1816
+#@ Lawyer
+msgid "Use this option if you want to use specified id for this element"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:770
+#: include/shortcodes/common_elements.php:990
+#: include/shortcodes/common_elements.php:1320
+#: include/shortcodes/common_elements.php:1596
+#: include/shortcodes/common_elements.php:1730
+#: include/shortcodes/common_elements.php:2081
+#: include/shortcodes/common_elements.php:2375
+#: include/shortcodes/contentblock_elements.php:120
+#: include/shortcodes/loops_elements.php:115
+#: include/shortcodes/loops_elements.php:810
+#: include/shortcodes/loops_elements.php:1059
+#: include/shortcodes/loops_elements.php:1268
+#: include/shortcodes/shortcode_functions.php:1782
+#: include/shortcodes/shortcode_functions.php:1785
+#: include/shortcodes/shortcode_functions.php:1821
+#: include/shortcodes/shortcode_functions.php:1995
+#: include/shortcodes/shortcode_functions.php:2375
+#: include/shortcodes/typography_elements.php:801
+#@ Lawyer
+msgid "Animation Class"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:775
+#: include/shortcodes/common_elements.php:995
+#: include/shortcodes/common_elements.php:1324
+#: include/shortcodes/common_elements.php:1600
+#: include/shortcodes/common_elements.php:1734
+#: include/shortcodes/common_elements.php:2085
+#: include/shortcodes/common_elements.php:2379
+#: include/shortcodes/contentblock_elements.php:124
+#: include/shortcodes/loops_elements.php:119
+#: include/shortcodes/loops_elements.php:813
+#: include/shortcodes/loops_elements.php:1064
+#: include/shortcodes/loops_elements.php:1273
+#: include/shortcodes/shortcode_functions.php:1824
+#: include/shortcodes/shortcode_functions.php:1998
+#: include/shortcodes/shortcode_functions.php:2378
+#: include/shortcodes/typography_elements.php:806
+#@ Lawyer
+msgid "Select Animation"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:789
+#: include/shortcodes/common_elements.php:1011
+#: include/shortcodes/common_elements.php:1337
+#: include/shortcodes/common_elements.php:1613
+#: include/shortcodes/common_elements.php:1748
+#: include/shortcodes/common_elements.php:2099
+#: include/shortcodes/contentblock_elements.php:137
+#: include/shortcodes/loops_elements.php:1080
+#: include/shortcodes/loops_elements.php:1288
+#: include/shortcodes/shortcode_functions.php:1798
+#: include/shortcodes/shortcode_functions.php:1838
+#: include/shortcodes/typography_elements.php:819
+#@ Lawyer
+msgid "Select Entrance animation type from the dropdown"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:796
+#@ Lawyer
+msgid "Pricing Features"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:799
+#@ Lawyer
+msgid "Add New Feature input box"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:802
+#@ Lawyer
+msgid "set feature price of the product"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:830
+#@ Lawyer
+msgid "Pricing Feature"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:943
+#@ Lawyer
+msgid "Edit Accordion Options"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:963
+#: include/shortcodes/typography_elements.php:67
+#: include/shortcodes/typography_elements.php:444
+#: include/shortcodes/typography_elements.php:716
+#@ Lawyer
+msgid "Style"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:969
+#@ Lawyer
+msgid "box"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:973
+#@ Lawyer
+msgid "choose a style type for accordion element"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:984
+#: include/shortcodes/loops_elements.php:1053
+#: include/shortcodes/loops_elements.php:1262
+#@ Lawyer
+msgid "Use this option if you want to use specified  id for this element"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1038
+#: include/shortcodes/shortcode_functions.php:1368
+#: include/shortcodes/shortcode_functions.php:2019
+#@ Lawyer
+msgid "Accordion"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1058
+#: include/shortcodes/shortcode_functions.php:2031
+#@ Lawyer
+msgid "Accordion Title"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1064
+#: include/shortcodes/shortcode_functions.php:2034
+#@ Lawyer
+msgid "Enter accordion title"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1071
+#: include/shortcodes/common_elements.php:2444
+#@ Lawyer
+msgid "Title Select Icon"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1076
+#: include/shortcodes/common_elements.php:1247
+#: include/shortcodes/common_elements.php:1481
+#: include/shortcodes/contentblock_elements.php:361
+#@ Lawyer
+msgid "select the fontawsome Icons you would like to add to your menu items"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1082
+#: include/shortcodes/shortcode_functions.php:2049
+#@ Lawyer
+msgid "Accordion Text"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1088
+#: include/shortcodes/contentblock_elements.php:829
+#: include/shortcodes/loops_elements.php:1126
+#: include/shortcodes/loops_elements.php:1348
+#: include/shortcodes/shortcode_functions.php:2052
+#: include/shortcodes/typography_elements.php:234
+#: include/shortcodes/typography_elements.php:343
+#: include/shortcodes/typography_elements.php:1636
+#@ Lawyer
+msgid "Enter your content"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1105
+#@ Lawyer
+msgid "Add accordion"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1187
+#@ Lawyer
+msgid "Edit Call To Action Options"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1204
+#: include/shortcodes/shortcode_functions.php:2275
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1723
+#@ Lawyer
+msgid "Type"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1208
+#: include/shortcodes/typography_elements.php:770
+#@ Lawyer
+msgid "Normal"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1209
+#@ Lawyer
+msgid "With Center Icon"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1211
+#@ Lawyer
+msgid "Select the display type for the call to action"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1220
+#@ Lawyer
+msgid "Put the title for action element"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1225
+#: include/theme-options/theme_options.php:556
+#@ Lawyer
+msgid "Short Text"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1229
+#@ Lawyer
+msgid "Enter short detail about your call to action content"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1256
+#@ Lawyer
+msgid "set custom colour for icon"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1266
+#@ Lawyer
+msgid "Select the background image for action element"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1297
+#@ Lawyer
+msgid "Text on the button"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1306
+#@ Lawyer
+msgid "Button link"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1439
+#@ Lawyer
+msgid "Edit Counter Options"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1447
+#@ Lawyer
+msgid "Choose Icon/Image"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1452
+#: include/shortcodes/common_elements.php:1918
+#: include/shortcodes/shortcode_functions.php:2293
+#: include/shortcodes/typography_elements.php:925
+#@ Lawyer
+msgid "Icon"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1455
+#@ Lawyer
+msgid "Choose an icon/image for the counter"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1461
+#: include/shortcodes/common_elements.php:1997
+#: include/shortcodes/common_elements.php:2010
+#: include/shortcodes/typography_elements.php:741
+#: include/shortcodes/typography_elements.php:1371
+#: include/shortcodes/typography_elements.php:1619
+#@ Lawyer
+msgid "Align"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1491
+#@ Lawyer
+msgid "set a color for the counter icon"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1523
+#@ Lawyer
+msgid "set number"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1535
+#: include/theme-components/cs-posttypes/pt_practice.php:144
+#: include/theme-components/cs-posttypes/pt_team.php:188
+#@ Lawyer
+msgid "Sub Title"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1539
+#@ Lawyer
+msgid "enter a sub title for the counter"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1544
+#: include/shortcodes/media_elements.php:401
+#: include/shortcodes/typography_elements.php:1204
+#@ Lawyer
+msgid "Title Color"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1553
+#: include/shortcodes/contentblock_elements.php:825
+#: include/shortcodes/media_elements.php:409
+#: include/shortcodes/shortcode_functions.php:2594
+#@ Lawyer
+msgid "Content(s)"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1566
+#@ Lawyer
+msgid "external/internal Url"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1572
+#@ Lawyer
+msgid "Border Frame"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1580
+#@ Lawyer
+msgid "set yes/no border frame form the dropdown"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1700
+#@ Lawyer
+msgid "Edit Progress bars Options"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1709
+#@ Lawyer
+msgid "Progress Bars Style"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1713
+#@ Lawyer
+msgid "Strip Progress bar"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1714
+#@ Lawyer
+msgid "Pattern Progress bar"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1715
+#@ Lawyer
+msgid "Plain Progress bar"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1765
+#@ Lawyer
+msgid "Progress Bar"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1769
+#@ Lawyer
+msgid "Progress Bars Title"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1777
+#: include/shortcodes/shortcode_functions.php:2540
+#@ Lawyer
+msgid "Skill (in percentage)"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1782
+#: include/shortcodes/shortcode_functions.php:2544
+#@ Lawyer
+msgid "Set the Skill (In %)"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1787
+#@ Lawyer
+msgid "Progress Bars Color"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1805
+#@ Lawyer
+msgid "Add Progress bar"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1892
+#@ Lawyer
+msgid "Edit Services Options"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1907
+#@ Lawyer
+msgid "Set a view from the dropdown"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1913
+#@ Lawyer
+msgid "Choose"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1921
+#@ Lawyer
+msgid "Choose a icon/image type form the dropdown"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1928
+#: include/shortcodes/shortcode_functions.php:2289
+#@ Lawyer
+msgid "Choose Icon"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1942
+#@ Lawyer
+msgid "Set custom colour for icon"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1974
+#@ Lawyer
+msgid "Icon Size"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:1983
+#@ Lawyer
+msgid "Select Icon Size"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2001
+#@ Lawyer
+msgid "Top left"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2002
+#@ Lawyer
+msgid "Top Center"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2003
+#@ Lawyer
+msgid "Top Right"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2005
+#: include/shortcodes/common_elements.php:2018
+#@ Lawyer
+msgid "Give the position"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2033
+#: include/shortcodes/typography_elements.php:230
+#: include/shortcodes/typography_elements.php:481
+#: include/shortcodes/typography_elements.php:594
+#: include/shortcodes/typography_elements.php:707
+#: include/theme-options/theme_options.php:1152
+#@ Lawyer
+msgid "Content"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2037
+#: include/shortcodes/common_elements.php:2254
+#: include/shortcodes/typography_elements.php:598
+#@ Lawyer
+msgid "Enter the content"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2042
+#@ Lawyer
+msgid "Link Text"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2047
+#@ Lawyer
+msgid "Give a external/internal link for the services title"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2067
+#@ Lawyer
+msgid "Give a external/internal link for the services Button"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2214
+#@ Lawyer
+msgid "Edit Table Options"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2232
+#@ Lawyer
+msgid "Table Style"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2237
+#@ Lawyer
+msgid "Modren Style"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2242
+#@ Lawyer
+msgid "Select a table style"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2248
+#@ Lawyer
+msgid "Table Content"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2350
+#@ Lawyer
+msgid "Edit Faq Options"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2418
+#: include/shortcodes/shortcode_functions.php:1635
+#: include/shortcodes/shortcode_functions.php:2065
+#@ Lawyer
+msgid "FAQ"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2434
+#: include/shortcodes/shortcode_functions.php:2072
+#@ Lawyer
+msgid "Faq Title"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2452
+#: include/shortcodes/shortcode_functions.php:2083
+#@ Lawyer
+msgid "Faq Text"
+msgstr ""
+
+#: include/shortcodes/common_elements.php:2472
+#@ Lawyer
+msgid "Add Faq"
+msgstr ""
+
+#: include/shortcodes/common_function.php:955
+#@ Lawyer
+msgid "Q."
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:61
+#@ Lawyer
+msgid "Edit Infobox Options"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:92
+#@ Lawyer
+msgid "Provide a hex background colour code here"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:111
+#@ Lawyer
+msgid "Class"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:158
+#@ Lawyer
+msgid "Info box Item(s)"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:162
+#@ Lawyer
+msgid "Info Box Select Icon"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:190
+#: include/shortcodes/shortcode_functions.php:2442
+#@ Lawyer
+msgid "Short Description"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:291
+#@ Lawyer
+msgid "Edit Icon Options"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:301
+#@ Lawyer
+msgid "Background Style"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:302
+#@ Lawyer
+msgid "Border Style"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:309
+#: include/shortcodes/shortcode_functions.php:1917
+#@ Lawyer
+msgid "Icon Type"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:313
+#: include/shortcodes/shortcode_functions.php:1892
+#: include/shortcodes/shortcode_functions.php:1920
+#@ Lawyer
+msgid "Circle"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:320
+#: include/shortcodes/typography_elements.php:455
+#: include/shortcodes/typography_elements.php:731
+#@ Lawyer
+msgid "Font Size"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:328
+#@ Lawyer
+msgid "Select font size"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:338
+#@ Lawyer
+msgid "Provide a hex colour code, If you want to override the default"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:350
+#@ Lawyer
+msgid "Add a hex background colour code, If you want to override the default"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:446
+#@ Lawyer
+msgid "Edit Map Options"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:470
+#@ Lawyer
+msgid "Map Height"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:474
+#@ Lawyer
+msgid "Map height set here"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:479
+#@ Lawyer
+msgid "Latitude"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:483
+#: include/shortcodes/contentblock_elements.php:492
+#@ Lawyer
+msgid "The map will appear only if this field is filled correctly"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:488
+#@ Lawyer
+msgid "Longitude"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:497
+#@ Lawyer
+msgid "Zoom"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:506
+#@ Lawyer
+msgid "Map Types"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:510
+#@ Lawyer
+msgid "ROADMAP"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:511
+#@ Lawyer
+msgid "HYBRID"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:512
+#@ Lawyer
+msgid "SATELLITE"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:513
+#@ Lawyer
+msgid "TERRAIN"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:519
+#@ Lawyer
+msgid "Info Text"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:523
+#@ Lawyer
+msgid "Enter the marker content"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:528
+#@ Lawyer
+msgid "Info Max Width"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:532
+#@ Lawyer
+msgid "set max width for the google map"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:537
+#@ Lawyer
+msgid "Info Max Height"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:541
+#@ Lawyer
+msgid "set max height for the google map"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:546
+#@ Lawyer
+msgid "Marker Icon Path"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:551
+#@ Lawyer
+msgid "Give a link for your marker icon"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:569
+#@ Lawyer
+msgid "Show Marker"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:576
+#@ Lawyer
+msgid "Set marker on/off for the map"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:581
+#@ Lawyer
+msgid "Disable Map Controls"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:588
+#@ Lawyer
+msgid "You can set map control disable/enable"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:593
+#@ Lawyer
+msgid "Draggable"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:604
+#@ Lawyer
+msgid "Scroll Wheel"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:611
+#@ Lawyer
+msgid "Set scroll wheel"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:623
+#@ Lawyer
+msgid "Set border for map"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:633
+#@ Lawyer
+msgid "If you will select a border than select the border color"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:639
+#@ Lawyer
+msgid "Map Color"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:736
+#@ Lawyer
+msgid "Edit Offer Slider Options"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:749
+#: include/shortcodes/shortcode_functions.php:1733
+#@ Lawyer
+msgid "Full width"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:750
+#: include/shortcodes/shortcode_functions.php:1734
+#@ Lawyer
+msgid "One half"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:751
+#: include/shortcodes/shortcode_functions.php:1736
+#@ Lawyer
+msgid "Two third"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:752
+#: include/shortcodes/shortcode_functions.php:1738
+#@ Lawyer
+msgid "Three fourth"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:792
+#: include/shortcodes/shortcode_functions.php:2560
+#@ Lawyer
+msgid "Offer Slider Item"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:834
+#@ Lawyer
+msgid "Read More Link"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:842
+#: include/shortcodes/media_elements.php:437
+#: include/shortcodes/shortcode_functions.php:2352
+#: include/shortcodes/shortcode_functions.php:2610
+#@ Lawyer
+msgid "Link Title"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:846
+#@ Lawyer
+msgid "give the link title here"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:861
+#@ Lawyer
+msgid "Add Offer"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:941
+#@ Lawyer
+msgid "Edit Spacer Options"
+msgstr ""
+
+#: include/shortcodes/contentblock_elements.php:947
+#: include/shortcodes/media_elements.php:90
+#: include/shortcodes/typography_elements.php:113
+#@ Lawyer
+msgid "Height"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:62
+#@ Lawyer
+msgid "Edit Clients Options"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:77
+#: include/shortcodes/typography_elements.php:1734
+#@ Lawyer
+msgid "View"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:82
+#@ Lawyer
+msgid "Slider View"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:88
+#@ Lawyer
+msgid "Gray Scale"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:152
+#: include/shortcodes/shortcode_functions.php:1403
+#@ Lawyer
+msgid "Clients"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:172
+#: include/shortcodes/shortcode_functions.php:2497
+#@ Lawyer
+msgid "Website Url"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:185
+#: include/shortcodes/shortcode_functions.php:2505
+#@ Lawyer
+msgid "Client Logo"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:295
+#@ Lawyer
+msgid "Edit Content Slider Options"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:311
+#@ Lawyer
+msgid "Select Catgory"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:498
+#@ Lawyer
+msgid "Timeline"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:500
+#: include/shortcodes/media_elements.php:204
+#@ Lawyer
+msgid "Clean"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:502
+#@ Lawyer
+msgid "Grid"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:503
+#@ Lawyer
+msgid "Masonry"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:504
+#@ Lawyer
+msgid "Boxed"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:704
+#@ Lawyer
+msgid "Team Views"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:709
+#@ Lawyer
+msgid "Default View"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:710
+#@ Lawyer
+msgid "Thumbnails View"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:725
+#@ Lawyer
+msgid "Designation"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:734
+#@ Lawyer
+msgid "short Description"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:743
+#@ Lawyer
+msgid "Team Profile Image"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:773
+#@ Lawyer
+msgid "Twitter Url"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:781
+#@ Lawyer
+msgid "Google plus"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:789
+#@ Lawyer
+msgid "Skype"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:903
+#@ Lawyer
+msgid "Edit Twitter Options"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:912
+#: include/theme-components/cs-widgets/widgets.php:707
+#@ Lawyer
+msgid "User Name"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:926
+#@ Lawyer
+msgid "No of Tweets"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:1027
+#@ Lawyer
+msgid "Edit Case Process Options"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:1101
+#: include/shortcodes/shortcode_functions.php:1409
+#: include/shortcodes/shortcode_functions.php:2097
+#@ Lawyer
+msgid "Case Process"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:1112
+#@ Lawyer
+msgid "Enter Case Process title"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:1143
+#: include/shortcodes/loops_elements.php:1365
+#@ Lawyer
+msgid "Add Case"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:1236
+#@ Lawyer
+msgid "Edit Time Options"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:1309
+#: include/shortcodes/shortcode_functions.php:1416
+#: include/shortcodes/shortcode_functions.php:2121
+#@ Lawyer
+msgid "Time Line"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:1320
+#@ Lawyer
+msgid "Enter Time Line title"
+msgstr ""
+
+#: include/shortcodes/loops_elements.php:1334
+#@ Lawyer
+msgid "Enter Read More Link here"
+msgstr ""
+
+#: include/shortcodes/loops_function.php:426
+#@ Lawyer
+msgid "Likes"
+msgstr ""
+
+#: include/shortcodes/loops_function.php:567
+#@ Lawyer
+msgid "Posted On"
+msgstr ""
+
+#: include/shortcodes/loops_function.php:573
+#@ Lawyer
+msgid "By"
+msgstr ""
+
+#: include/shortcodes/loops_function.php:586
+#@ Lawyer
+msgid " Posted On"
+msgstr ""
+
+#: include/shortcodes/loops_function.php:609
+#@ Lawyer
+msgid "0 Comment"
+msgstr ""
+
+#: include/shortcodes/loops_function.php:1185
+#: include/theme-components/cs-widgets/widgets.php:804
+#, php-format
+#@ Lawyer
+msgid "%d seconds ago"
+msgstr ""
+
+#: include/shortcodes/loops_function.php:1186
+#: include/theme-components/cs-widgets/widgets.php:805
+#, php-format
+#@ Lawyer
+msgid "About a Minute Ago"
+msgid_plural "%d Minutes Ago"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/shortcodes/loops_function.php:1187
+#: include/shortcodes/loops_function.php:1188
+#: include/theme-components/cs-widgets/widgets.php:806
+#: include/theme-components/cs-widgets/widgets.php:807
+#, php-format
+#@ Lawyer
+msgid "About an Hour Ago"
+msgid_plural "%d Hours Ago"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/shortcodes/loops_function.php:1189
+#: include/theme-components/cs-widgets/widgets.php:808
+#, php-format
+#@ Lawyer
+msgid "About a Day Ago"
+msgid_plural "%d Days Ago"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/shortcodes/loops_function.php:1190
+#: include/theme-components/cs-widgets/widgets.php:809
+#, php-format
+#@ Lawyer
+msgid "About a Week Ago"
+msgid_plural "%d Weeks Ago"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/shortcodes/loops_function.php:1191
+#: include/theme-components/cs-widgets/widgets.php:810
+#, php-format
+#@ Lawyer
+msgid "About a Month Ago"
+msgid_plural "%d Months Ago"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/shortcodes/loops_function.php:1192
+#: include/theme-components/cs-widgets/widgets.php:811
+#, php-format
+#@ Lawyer
+msgid "About a year Ago"
+msgid_plural "%d years Ago"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/shortcodes/loops_function.php:1217
+#: include/shortcodes/loops_function.php:1221
+#@ Lawyer
+msgid "No Tweets Found"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:58
+#@ Lawyer
+msgid "Edit Video Options"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:76
+#@ Lawyer
+msgid "give the video url here"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:81
+#@ Lawyer
+msgid "Width"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:85
+#@ Lawyer
+msgid "Add a width in pix, If you want to override the default"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:94
+#@ Lawyer
+msgid "Provide height in px, if you want to override the default"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:185
+#@ Lawyer
+msgid "Edit Image Options"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:199
+#@ Lawyer
+msgid "Image Style"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:203
+#: include/shortcodes/typography_elements.php:72
+#: include/shortcodes/typography_elements.php:449
+#: include/shortcodes/typography_elements.php:1234
+#: include/shortcodes/typography_elements.php:1738
+#@ Lawyer
+msgid "Plain"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:212
+#@ Lawyer
+msgid "Image Url"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:218
+#@ Lawyer
+msgid "Browse the image"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:250
+#@ Lawyer
+msgid "Caption"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:254
+#@ Lawyer
+msgid "If you would like a caption to be shown below the image, add it here"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:342
+#@ Lawyer
+msgid "Edit Promo box Options"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:363
+#@ Lawyer
+msgid "Promo box Background image here"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:382
+#@ Lawyer
+msgid "Background Repeat"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:418
+#: include/shortcodes/typography_elements.php:790
+#@ Lawyer
+msgid "Content Color"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:449
+#@ Lawyer
+msgid "Give external/internal promobox url"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:548
+#@ Lawyer
+msgid "Edit Slider Options"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:554
+#@ Lawyer
+msgid "Slider Section Title"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:561
+#: include/shortcodes/shortcode_elements.php:63
+#@ Lawyer
+msgid "Please enter slider header title"
+msgstr ""
+
+#: include/shortcodes/media_elements.php:567
+#@ Lawyer
+msgid "Choose Slider"
+msgstr ""
+
+#: include/shortcodes/shortcode_elements.php:50
+#@ Lawyer
+msgid "Edit Post Slider Options"
+msgstr ""
+
+#: include/shortcodes/shortcode_elements.php:56
+#@ Lawyer
+msgid "Slider Header Title"
+msgstr ""
+
+#: include/shortcodes/shortcode_elements.php:69
+#@ Lawyer
+msgid "Choose Slider Type"
+msgstr ""
+
+#: include/shortcodes/shortcode_elements.php:75
+#@ Lawyer
+msgid "Post Slider"
+msgstr ""
+
+#: include/shortcodes/shortcode_elements.php:76
+#@ Lawyer
+msgid "Flex Slider"
+msgstr ""
+
+#: include/shortcodes/shortcode_elements.php:85
+#@ Lawyer
+msgid "Choose Post Category"
+msgstr ""
+
+#: include/shortcodes/shortcode_elements.php:126
+#@ Lawyer
+msgid "Use Short Code"
+msgstr ""
+
+#: include/shortcodes/shortcode_elements.php:133
+#@ Lawyer
+msgid "Please enter the Revolution/Other Slider Short Code like [rev_slider name]"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:413
+#@ Lawyer
+msgid "About"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:460
+#@ Lawyer
+msgid "Edit"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:605
+#, php-format
+#@ Lawyer
+msgid "%s"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1375
+#@ Lawyer
+msgid "Blog"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1382
+#@ Lawyer
+msgid "Button"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1389
+#@ Lawyer
+msgid "Case Study"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1396
+#@ Lawyer
+msgid "Call to Action"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1423
+#@ Lawyer
+msgid "Form"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1429
+#: include/shortcodes/shortcode_functions.php:2269
+#@ Lawyer
+msgid "Counter"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1435
+#@ Lawyer
+msgid "Content Slider"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1441
+#: include/shortcodes/shortcode_functions.php:1968
+#@ Lawyer
+msgid "Divider"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1447
+#@ Lawyer
+msgid "Drop cap"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1453
+#@ Lawyer
+msgid "Column"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1459
+#@ Lawyer
+msgid "Heading"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1465
+#@ Lawyer
+msgid "Highlight"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1471
+#@ Lawyer
+msgid "Icons"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1477
+#@ Lawyer
+msgid "Info box"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1483
+#@ Lawyer
+msgid "Image Frame"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1489
+#@ Lawyer
+msgid "List"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1508
+#@ Lawyer
+msgid "Offer slider"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1515
+#@ Lawyer
+msgid "Practice"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1522
+#: include/shortcodes/shortcode_functions.php:2532
+#@ Lawyer
+msgid "Progress bars"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1529
+#@ Lawyer
+msgid "Promo box"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1535
+#@ Lawyer
+msgid "Price table"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1541
+#@ Lawyer
+msgid "Quote"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1547
+#: include/shortcodes/shortcode_functions.php:2149
+#@ Lawyer
+msgid "Register"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1559
+#@ Lawyer
+msgid "Services"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1565
+#@ Lawyer
+msgid "Team"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1571
+#@ Lawyer
+msgid "Post Team"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1577
+#@ Lawyer
+msgid "Tooltip"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1593
+#@ Lawyer
+msgid "Tabs"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1599
+#@ Lawyer
+msgid "Toggle"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1605
+#@ Lawyer
+msgid "Testimonials"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1611
+#@ Lawyer
+msgid "Table"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1617
+#@ Lawyer
+msgid "Tweets"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1629
+#@ Lawyer
+msgid "Spacer"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1735
+#@ Lawyer
+msgid "One third"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1737
+#@ Lawyer
+msgid "One fourth"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1776
+#@ Lawyer
+msgid "Use this option if you want to use specified Class for this element"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1878
+#@ Lawyer
+msgid "Service"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1882
+#@ Lawyer
+msgid "Service Title"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1884
+#@ Lawyer
+msgid "Title of the Service"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1888
+#@ Lawyer
+msgid "Service View"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1890
+#@ Lawyer
+msgid "Large Boxed"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1891
+#@ Lawyer
+msgid "Large Normal"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1896
+#@ Lawyer
+msgid "Type of the Service"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1906
+#@ Lawyer
+msgid "Icon Postion"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1909
+#: include/shortcodes/typography_elements.php:1375
+#: include/shortcodes/typography_elements.php:1623
+#@ Lawyer
+msgid "left"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1911
+#: include/shortcodes/typography_elements.php:221
+#@ Lawyer
+msgid "Top"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1927
+#@ Lawyer
+msgid "Service Background Image"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1948
+#: include/shortcodes/shortcode_functions.php:1950
+#@ Lawyer
+msgid "Service Link Url"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1963
+#@ Lawyer
+msgid "Service Text"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:1983
+#@ Lawyer
+msgid "Icon Background Color"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2151
+#@ Lawyer
+msgid "Register Title"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2157
+#@ Lawyer
+msgid "User Role"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2159
+#@ Lawyer
+msgid "Subscriber"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2160
+#@ Lawyer
+msgid "Staff"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2161
+#@ Lawyer
+msgid "Member"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2162
+#@ Lawyer
+msgid "Instructor"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2163
+#@ Lawyer
+msgid "Customer"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2164
+#@ Lawyer
+msgid "Contributor"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2166
+#@ Lawyer
+msgid "Editor"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2167
+#@ Lawyer
+msgid "Administrator"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2173
+#@ Lawyer
+msgid "Register Text"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2224
+#: include/shortcodes/typography_elements.php:1413
+#@ Lawyer
+msgid "Testimonial"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2235
+#: include/shortcodes/typography_elements.php:1437
+#@ Lawyer
+msgid "Company"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2237
+#: include/shortcodes/typography_elements.php:1444
+#@ Lawyer
+msgid "Company Name"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2271
+#@ Lawyer
+msgid "Counter Title"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2279
+#@ Lawyer
+msgid "Counter Style One"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2280
+#@ Lawyer
+msgid "Counter Style Two"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2281
+#@ Lawyer
+msgid "Counter Style Three"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2282
+#@ Lawyer
+msgid "Counter Style Four"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2343
+#@ Lawyer
+msgid "Numbers"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2347
+#@ Lawyer
+msgid "Count Text Color"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2400
+#: include/shortcodes/typography_elements.php:968
+#@ Lawyer
+msgid "List Item(s)"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2402
+#: include/shortcodes/typography_elements.php:972
+#@ Lawyer
+msgid "List Item"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2419
+#@ Lawyer
+msgid "Infobox Item(s)"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2458
+#@ Lawyer
+msgid "Album Item(s)"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2460
+#@ Lawyer
+msgid "Track Title"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2467
+#@ Lawyer
+msgid "Track MP3 Url"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2481
+#@ Lawyer
+msgid "Client"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2534
+#@ Lawyer
+msgid "Progress bars Title"
+msgstr ""
+
+#: include/shortcodes/shortcode_functions.php:2548
+#@ Lawyer
+msgid "Progress bars Color"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:61
+#@ Lawyer
+msgid "Edit Divider Option"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:71
+#@ Lawyer
+msgid "Crossy"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:73
+#@ Lawyer
+msgid "Zigzag"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:74
+#@ Lawyer
+msgid "Small Zigzag"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:75
+#@ Lawyer
+msgid "3 Box"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:81
+#@ Lawyer
+msgid "Back to Top"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:88
+#@ Lawyer
+msgid "set back to top from the dropdown"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:98
+#@ Lawyer
+msgid "set margin top for the divider in px"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:108
+#@ Lawyer
+msgid "set a margin bottom for the divider in px"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:118
+#@ Lawyer
+msgid "set the divider height"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:203
+#@ Lawyer
+msgid "Edit Tooltip Options"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:209
+#: include/shortcodes/typography_elements.php:217
+#@ Lawyer
+msgid "Hover Title"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:223
+#@ Lawyer
+msgid "Bottom"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:322
+#@ Lawyer
+msgid "Edit Flex Column Options"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:339
+#@ Lawyer
+msgid "Column Text"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:428
+#@ Lawyer
+msgid "Edit Dropcap Options"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:460
+#@ Lawyer
+msgid "add your font size for the dropcap text"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:465
+#: include/shortcodes/typography_elements.php:576
+#@ Lawyer
+msgid "Color"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:570
+#@ Lawyer
+msgid "Edit Highlight Options"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:684
+#@ Lawyer
+msgid "Edit Heading Options"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:699
+#@ Lawyer
+msgid "Color Title"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:736
+#@ Lawyer
+msgid "add font size number for the heading"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:749
+#: include/shortcodes/typography_elements.php:1627
+#@ Lawyer
+msgid "Align the content position"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:754
+#@ Lawyer
+msgid "Divider On/Off"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:761
+#@ Lawyer
+msgid "set divider on/off for the list bottom border"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:766
+#@ Lawyer
+msgid "Font Style"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:771
+#@ Lawyer
+msgid "Italic"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:772
+#@ Lawyer
+msgid "Oblique"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:774
+#@ Lawyer
+msgid "select a font style from the drop down"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:779
+#@ Lawyer
+msgid "Heading Color"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:784
+#@ Lawyer
+msgid "heading color for the heading element"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:795
+#@ Lawyer
+msgid "set a content color for the heading element"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:903
+#@ Lawyer
+msgid "Edit List Style Options"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:920
+#@ Lawyer
+msgid "lList Stye"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:926
+#@ Lawyer
+msgid "Bullet"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:927
+#@ Lawyer
+msgid "Decimal"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:928
+#@ Lawyer
+msgid "Alphabetic"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:929
+#@ Lawyer
+msgid "Numeric and Icon"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:932
+#@ Lawyer
+msgid "set a list style from the dropdown"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:944
+#@ Lawyer
+msgid "set on/off for the list bottom border"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1000
+#@ Lawyer
+msgid "Add List Item"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1116
+#@ Lawyer
+msgid "Edit Message Options"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1140
+#@ Lawyer
+msgid "Message Type"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1144
+#@ Lawyer
+msgid "Alert"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1147
+#@ Lawyer
+msgid "Select the display type for the Message"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1152
+#@ Lawyer
+msgid "Message Style"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1156
+#: include/shortcodes/typography_elements.php:1157
+#@ Lawyer
+msgid "mainpage"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1196
+#@ Lawyer
+msgid "Message Box Title"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1229
+#@ Lawyer
+msgid "Style Type"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1233
+#: include/shortcodes/typography_elements.php:1739
+#@ Lawyer
+msgid "Fancy"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1240
+#@ Lawyer
+msgid "Close Button"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1248
+#@ Lawyer
+msgid "Set close button on/off"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1352
+#@ Lawyer
+msgid "Edit Testimonials Options"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1376
+#: include/shortcodes/typography_elements.php:1624
+#@ Lawyer
+msgid "right"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1377
+#: include/shortcodes/typography_elements.php:1625
+#@ Lawyer
+msgid "center"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1379
+#@ Lawyer
+msgid "This will not apply in Slider View"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1573
+#@ Lawyer
+msgid "Edit Quote Options"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1594
+#@ Lawyer
+msgid "Give the name of the author"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1599
+#@ Lawyer
+msgid "Author Url"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1603
+#@ Lawyer
+msgid "Give the Author external&internal Url"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1632
+#@ Lawyer
+msgid "Quote Content"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1718
+#@ Lawyer
+msgid "Edit Contact Form Options"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1745
+#@ Lawyer
+msgid "Label On/Off"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1758
+#@ Lawyer
+msgid "Send To"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1762
+#@ Lawyer
+msgid "add a email which you want to receive email"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1767
+#: include/theme-components/cs-widgets/widgets.php:1038
+#@ Lawyer
+msgid "Success Message"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1771
+#@ Lawyer
+msgid "set a meesage if your email sent successfully"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1776
+#@ Lawyer
+msgid "Error Message"
+msgstr ""
+
+#: include/shortcodes/typography_elements.php:1780
+#@ Lawyer
+msgid "set a message for error message"
+msgstr ""
+
+#: include/shortcodes/typography_function.php:505
+#@ Lawyer
+msgid "Enter Your Name"
+msgstr ""
+
+#: include/shortcodes/typography_function.php:508
+#@ Lawyer
+msgid "Full Name"
+msgstr ""
+
+#: include/shortcodes/typography_function.php:511
+#@ Lawyer
+msgid "Enter Your Email Address"
+msgstr ""
+
+#: include/shortcodes/typography_function.php:514
+#@ Lawyer
+msgid "example@example.com"
+msgstr ""
+
+#: include/shortcodes/typography_function.php:518
+#@ Lawyer
+msgid "Enter Your Phone Number"
+msgstr ""
+
+#: include/shortcodes/typography_function.php:524
+#@ Lawyer
+msgid "Enter Subject"
+msgstr ""
+
+#: include/shortcodes/typography_function.php:534
+#@ Lawyer
+msgid "Submit Now"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:271
+#@ Lawyer
+msgid "Something went wrong."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:283
+#, php-format
+#@ Lawyer
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:298
+#, php-format
+#@ Lawyer
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:308
+#, php-format
+#@ Lawyer
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:318
+#@ Lawyer
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:323
+#@ Lawyer
+msgid "Return to the dashboard"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:326
+#, php-format
+#@ Lawyer
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:327
+#@ Lawyer
+msgid "Dismiss this notice"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:328
+#@ Lawyer
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:645
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2517
+#@ Lawyer
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:719
+#@ Lawyer
+msgid "The remote plugin package is does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:719
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:723
+#@ Lawyer
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:723
+#@ Lawyer
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:768
+#, php-format
+#@ Lawyer
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:893
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1907
+#@ Lawyer
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1536
+#@ Lawyer
+msgid "External Source"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1540
+#@ Lawyer
+msgid "Pre-Packaged"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1545
+#@ Lawyer
+msgid "WordPress Repository"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1549
+#@ Lawyer
+msgid "Required"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1551
+#@ Lawyer
+msgid "Recommended"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1555
+#@ Lawyer
+msgid "Not Installed"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1557
+#@ Lawyer
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1640
+#, php-format
+#@ Lawyer
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1659
+#, php-format
+#@ Lawyer
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1705
+#, php-format
+#@ Lawyer
+msgid "No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1721
+#@ Lawyer
+msgid "Plugin"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1722
+#@ Lawyer
+msgid "Source"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1724
+#@ Lawyer
+msgid "Status"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1742
+#@ Lawyer
+msgid "Install"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1743
+#@ Lawyer
+msgid "Activate"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1795
+#@ Lawyer
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1893
+#@ Lawyer
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:1911
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:325
+#@ Lawyer
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2260
+#@ Lawyer
+msgid "Install package not available."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2261
+#, php-format
+#@ Lawyer
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2262
+#@ Lawyer
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2263
+#@ Lawyer
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2264
+#@ Lawyer
+msgid "Plugin install failed."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2265
+#@ Lawyer
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2276
+#@ Lawyer
+msgid "Plugin activation failed."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2399
+#, php-format
+#@ Lawyer
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2400
+#, php-format
+#@ Lawyer
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2404
+#@ Lawyer
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2405
+#, php-format
+#@ Lawyer
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2405
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2412
+#@ Lawyer
+msgid "Show Details"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2405
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2412
+#@ Lawyer
+msgid "Hide Details"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2406
+#@ Lawyer
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2407
+#, php-format
+#@ Lawyer
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2411
+#@ Lawyer
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2412
+#, php-format
+#@ Lawyer
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2413
+#@ Lawyer
+msgid "All installations have been completed."
+msgstr ""
+
+#: include/theme-components/cs-activation-plugins/tgm_plugin_activation.php:2414
+#, php-format
+#@ Lawyer
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/theme-components/cs-header/header_functions.php:295
+#: searchform.php:11
+#@ Lawyer
+msgid "Enter your search"
+msgstr ""
+
+#: include/theme-components/cs-header/header_functions.php:310
+#@ Lawyer
+msgid "Contribute Now"
+msgstr ""
+
+#: include/theme-components/cs-header/header_functions.php:988
+#@ Lawyer
+msgid "Toggle navigation"
+msgstr ""
+
+#: include/theme-components/cs-importer/parsers.php:41
+#: include/theme-components/cs-importer/parsers.php:62
+#@ Lawyer
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: include/theme-components/cs-importer/parsers.php:42
+#@ Lawyer
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: include/theme-components/cs-importer/parsers.php:66
+#: include/theme-components/cs-importer/parsers.php:71
+#: include/theme-components/cs-importer/parsers.php:261
+#: include/theme-components/cs-importer/parsers.php:450
+#@ Lawyer
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:60
+#@ Lawyer
+msgid "Error."
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:68
+#: include/theme-components/cs-importer/wordpress-importer.php:134
+#: include/theme-components/cs-importer/wordpress-importer.php:148
+#: include/theme-components/cs-importer/wordpress-importer.php:209
+#: include/theme-components/cs-importer/wordpress-importer.php:213
+#: include/theme-components/cs-importer/wordpress-importer.php:222
+#@ Lawyer
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:70
+#: include/theme-components/cs-importer/wordpress-importer.php:135
+#@ Lawyer
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:311
+#@ Lawyer
+msgid "Import Demo Data"
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:317
+#@ Lawyer
+msgid "Importing demo data helps to build site like the demo site by all means. It is the quickest way to setup theme. Following things happen when dummy data is imported;"
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:321
+#@ Lawyer
+msgid "All wordpress settings will remain same and intact."
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:323
+#@ Lawyer
+msgid "Posts, pages and dummy images shown in demo will be imported."
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:325
+#@ Lawyer
+msgid "Only dummy images will be imported as all demo images have copy right restriction."
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:327
+#@ Lawyer
+msgid "No existing posts, pages, categories, custom post types or any other data will be deleted or modified."
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:329
+#@ Lawyer
+msgid "To proceed, please click \"Import Demo Data\" and wait for a while."
+msgstr ""
+
+#: include/theme-components/cs-importer/theme_importer.php:398
+#@ Lawyer
+msgid "Page not exist"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:106
+#@ Lawyer
+msgid "Attention Please Wait"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:107
+#@ Lawyer
+msgid "Dont Refresh Page"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:107
+#@ Lawyer
+msgid "We are fetching dummy data for you. It can take 2 to 10 minutes depending upon data speed."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:188
+#@ Lawyer
+msgid "All done."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:188
+#@ Lawyer
+msgid "Have fun!"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:189
+#@ Lawyer
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:214
+#, php-format
+#@ Lawyer
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:230
+#, php-format
+#@ Lawyer
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:253
+#, php-format
+#@ Lawyer
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:279
+#@ Lawyer
+msgid "Assign Authors"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:280
+#@ Lawyer
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:282
+#, php-format
+#@ Lawyer
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:292
+#@ Lawyer
+msgid "Import Attachments"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:295
+#@ Lawyer
+msgid "Download and import file attachments"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:311
+#@ Lawyer
+msgid "Import author:"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:322
+#@ Lawyer
+msgid "or create new user with login name:"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:325
+#@ Lawyer
+msgid "as a new user:"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:333
+#@ Lawyer
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:335
+#@ Lawyer
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:336
+#@ Lawyer
+msgid "- Select -"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:386
+#, php-format
+#@ Lawyer
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:434
+#, php-format
+#@ Lawyer
+msgid "Failed to import category %s"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:471
+#, php-format
+#@ Lawyer
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:514
+#: include/theme-components/cs-importer/wordpress-importer.php:639
+#, php-format
+#@ Lawyer
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:535
+#, php-format
+#@ Lawyer
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:556
+#, php-format
+#@ Lawyer
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:611
+#, php-format
+#@ Lawyer
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:754
+#@ Lawyer
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:761
+#, php-format
+#@ Lawyer
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:847
+#@ Lawyer
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:860
+#@ Lawyer
+msgid "Invalid file type"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:903
+#@ Lawyer
+msgid "Remote server did not respond"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:909
+#, php-format
+#@ Lawyer
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:916
+#@ Lawyer
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:921
+#@ Lawyer
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:927
+#, php-format
+#@ Lawyer
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:1024
+#@ Lawyer
+msgid "Import WordPress"
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:1031
+#, php-format
+#@ Lawyer
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:1046
+#@ Lawyer
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: include/theme-components/cs-importer/wordpress-importer.php:1047
+#@ Lawyer
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: include/theme-components/cs-mailchimp/mailchimp_functions.php:32
+#@ Lawyer
+msgid "Signup weekly newsletter"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:68
+#, php-format
+#@ Lawyer
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:72
+#, php-format
+#@ Lawyer
+msgid "%s (Pending)"
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:96
+#@ Lawyer
+msgid "Move up"
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:109
+#@ Lawyer
+msgid "Move down"
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:111
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:113
+#@ Lawyer
+msgid "Edit Menu Item"
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:129
+#@ Lawyer
+msgid "Navigation Label"
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:135
+#@ Lawyer
+msgid "Title Attribute"
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:142
+#@ Lawyer
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:147
+#@ Lawyer
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:153
+#@ Lawyer
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:159
+#: include/theme-components/cs-posttypes/pt_casestudy.php:168
+#: include/theme-components/cs-posttypes/pt_casestudy.php:185
+#: include/theme-components/cs-posttypes/pt_team.php:287
+#: include/theme-components/cs-posttypes/pt_team.php:305
+#@ Lawyer
+msgid "Description"
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:161
+#@ Lawyer
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:169
+#@ Lawyer
+msgid "Active Mega Menu"
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:177
+#@ Lawyer
+msgid "hide text"
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:185
+#@ Lawyer
+msgid "disable link"
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:204
+#, php-format
+#@ Lawyer
+msgid "Original: %s"
+msgstr ""
+
+#: include/theme-components/cs-mega-menu/edit_custom_walker.php:218
+#@ Lawyer
+msgid "Cancel"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:23
+#: include/theme-components/cs-posttypes/pt_casestudy.php:24
+#@ Lawyer
+msgid "Case Studies"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:25
+#@ Lawyer
+msgid "Add New CaseStudy"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:26
+#@ Lawyer
+msgid "Edit Case Study"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:27
+#@ Lawyer
+msgid "New Case Study Item"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:28
+#@ Lawyer
+msgid "Add New Case Study"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:29
+#@ Lawyer
+msgid "View Case Study Item"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:30
+#@ Lawyer
+msgid "Search CaseStudy"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:31
+#: include/theme-components/cs-posttypes/pt_practice.php:31
+#: include/theme-components/cs-posttypes/pt_team.php:31
+#@ Lawyer
+msgid "Nothing found"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:32
+#: include/theme-components/cs-posttypes/pt_practice.php:32
+#: include/theme-components/cs-posttypes/pt_team.php:32
+#@ Lawyer
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:57
+#@ Lawyer
+msgid "Case Study Categories"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:58
+#@ Lawyer
+msgid "Search CaseStudy Categories"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:59
+#@ Lawyer
+msgid "Edit Case Study Category"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:60
+#@ Lawyer
+msgid "Update CaseStudy Category"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:61
+#: include/theme-components/cs-posttypes/pt_practice.php:61
+#: include/theme-components/cs-posttypes/pt_team.php:61
+#@ Lawyer
+msgid "Add New Category"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:115
+#: include/theme-components/cs-posttypes/pt_practice.php:108
+#: include/theme-components/cs-posttypes/pt_team.php:138
+#: include/theme-options/theme_options.php:207
+#@ Lawyer
+msgid "General"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:116
+#: include/theme-components/cs-posttypes/pt_practice.php:109
+#: include/theme-components/cs-posttypes/pt_team.php:139
+#: include/theme-options/theme_options.php:213
+#@ Lawyer
+msgid "Sub Header"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:123
+#@ Lawyer
+msgid "Case Study Options"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:151
+#: include/theme-components/cs-posttypes/pt_team.php:197
+#@ Lawyer
+msgid "Description Title"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:160
+#@ Lawyer
+msgid "Case Charge Title"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:177
+#@ Lawyer
+msgid "The Verdict Title"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:194
+#@ Lawyer
+msgid "Team Title"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:202
+#: include/theme-components/cs-posttypes/pt_practice.php:162
+#@ Lawyer
+msgid "Select Teams"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_casestudy.php:213
+#@ Lawyer
+msgid "--- Select Team ---"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_practice.php:23
+#: include/theme-components/cs-posttypes/pt_practice.php:24
+#@ Lawyer
+msgid "Practices"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_practice.php:25
+#: include/theme-components/cs-posttypes/pt_practice.php:28
+#@ Lawyer
+msgid "Add New Practice"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_practice.php:26
+#@ Lawyer
+msgid "Edit Practice"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_practice.php:27
+#@ Lawyer
+msgid "New Practice Item"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_practice.php:29
+#@ Lawyer
+msgid "View Practice Item"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_practice.php:30
+#@ Lawyer
+msgid "Search Practice"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_practice.php:57
+#@ Lawyer
+msgid "Practice Categories"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_practice.php:58
+#@ Lawyer
+msgid "Search Practice Categories"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_practice.php:59
+#@ Lawyer
+msgid "Edit Practice Category"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_practice.php:60
+#@ Lawyer
+msgid "Update Practice Category"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_practice.php:75
+#: include/theme-components/cs-posttypes/pt_practice.php:116
+#@ Lawyer
+msgid "Practice Options"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_practice.php:173
+#@ Lawyer
+msgid "-- Select Team--"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:23
+#: include/theme-components/cs-posttypes/pt_team.php:24
+#@ Lawyer
+msgid "Teams"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:25
+#: include/theme-components/cs-posttypes/pt_team.php:28
+#@ Lawyer
+msgid "Add New Team"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:26
+#@ Lawyer
+msgid "Edit Team"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:27
+#@ Lawyer
+msgid "New Team Item"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:29
+#@ Lawyer
+msgid "View Team Item"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:30
+#@ Lawyer
+msgid "Search Team"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:57
+#@ Lawyer
+msgid "Team Categories"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:58
+#@ Lawyer
+msgid "Search Team Categories"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:59
+#@ Lawyer
+msgid "Edit Team Category"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:60
+#@ Lawyer
+msgid "Update Team Category"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:75
+#: include/theme-components/cs-posttypes/pt_team.php:146
+#@ Lawyer
+msgid "Team Options"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:147
+#@ Lawyer
+msgid "Education Options"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:148
+#@ Lawyer
+msgid "Practices Options"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:175
+#@ Lawyer
+msgid "Evaluation Form"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:260
+#@ Lawyer
+msgid "Linkedin"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:269
+#@ Lawyer
+msgid "Vcard Download Link"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:278
+#@ Lawyer
+msgid "Feature 1"
+msgstr ""
+
+#: include/theme-components/cs-posttypes/pt_team.php:296
+#@ Lawyer
+msgid "Feature 2"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:29
+#@ Lawyer
+msgid "CS : Facebook"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:53
+#@ Lawyer
+msgid "Page Url"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:56
+#@ Lawyer
+msgid "Please enter your page or User profile url"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:61
+#@ Lawyer
+msgid "Show Faces"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:66
+#@ Lawyer
+msgid "Show Stream"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:71
+#@ Lawyer
+msgid "Like Box Height"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:183
+#@ Lawyer
+msgid "CS : Social Newtork"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:262
+#@ Lawyer
+msgid "CS : Flickr Gallery"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:420
+#: include/theme-components/cs-widgets/widgets.php:452
+#@ Lawyer
+msgid "No result found."
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:458
+#@ Lawyer
+msgid "Please Enter Flickr API key from Theme Options."
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:491
+#@ Lawyer
+msgid "CS : Recent Posts"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:514
+#@ Lawyer
+msgid "All"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:527
+#@ Lawyer
+msgid "Number of Posts To Display"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:532
+#@ Lawyer
+msgid "Display Thumbinals"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:614
+#@ Lawyer
+msgid "Leave a comment"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:689
+#@ Lawyer
+msgid "CS : Twitter Widget"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:710
+#@ Lawyer
+msgid "Num of Tweets"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:864
+#@ Lawyer
+msgid "Fotter Contact Information"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:865
+#@ Lawyer
+msgid "CS : Contact info"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:908
+#@ Lawyer
+msgid "Address"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:920
+#@ Lawyer
+msgid "Fax"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:1010
+#@ Lawyer
+msgid "Select contact form to show in widget"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:1011
+#@ Lawyer
+msgid "CS : Contact Form"
+msgstr ""
+
+#: include/theme-components/cs-widgets/widgets.php:1032
+#@ Lawyer
+msgid "Contact Email"
+msgstr ""
+
+#: include/theme-options/theme_options.php:14
+#@ Lawyer
+msgid "Saving changes..."
+msgstr ""
+
+#: include/theme-options/theme_options.php:44
+#@ Lawyer
+msgid "Save All Settings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:46
+#@ Lawyer
+msgid "Reset All Options"
+msgstr ""
+
+#: include/theme-options/theme_options.php:160
+#@ Lawyer
+msgid "Default Pages"
+msgstr ""
+
+#: include/theme-options/theme_options.php:160
+#@ Lawyer
+msgid "Blogs Sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:160
+#@ Lawyer
+msgid "Pages Sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:160
+#@ Lawyer
+msgid "Contact"
+msgstr ""
+
+#: include/theme-options/theme_options.php:163
+#: include/theme-options/theme_options.php:586
+#@ Lawyer
+msgid "Breadcrumbs Sub Header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:163
+#@ Lawyer
+msgid "No sub Header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:211
+#: include/theme-options/theme_options.php:262
+#@ Lawyer
+msgid "global"
+msgstr ""
+
+#: include/theme-options/theme_options.php:212
+#: include/theme-options/theme_options.php:228
+#@ Lawyer
+msgid "Header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:214
+#: include/theme-options/theme_options.php:229
+#@ Lawyer
+msgid "Footer"
+msgstr ""
+
+#: include/theme-options/theme_options.php:215
+#: include/theme-options/theme_options.php:1247
+#@ Lawyer
+msgid "social icons"
+msgstr ""
+
+#: include/theme-options/theme_options.php:216
+#@ Lawyer
+msgid "social sharing"
+msgstr ""
+
+#: include/theme-options/theme_options.php:217
+#: include/theme-options/theme_options.php:1341
+#@ Lawyer
+msgid "custom code"
+msgstr ""
+
+#: include/theme-options/theme_options.php:221
+#@ Lawyer
+msgid "color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:227
+#@ Lawyer
+msgid "general"
+msgstr ""
+
+#: include/theme-options/theme_options.php:230
+#@ Lawyer
+msgid "headings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:234
+#@ Lawyer
+msgid "typography / fonts"
+msgstr ""
+
+#: include/theme-options/theme_options.php:240
+#@ Lawyer
+msgid "Custom Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:241
+#: include/theme-options/theme_options.php:1078
+#@ Lawyer
+msgid "font family"
+msgstr ""
+
+#: include/theme-options/theme_options.php:242
+#@ Lawyer
+msgid "font size"
+msgstr ""
+
+#: include/theme-options/theme_options.php:246
+#: include/theme-options/theme_options.php:1362
+#@ Lawyer
+msgid "sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:254
+#@ Lawyer
+msgid "SEO"
+msgstr ""
+
+#: include/theme-options/theme_options.php:267
+#@ Lawyer
+msgid "Layout"
+msgstr ""
+
+#: include/theme-options/theme_options.php:269
+#@ Lawyer
+msgid "Layout type"
+msgstr ""
+
+#: include/theme-options/theme_options.php:273
+#@ Lawyer
+msgid "boxed"
+msgstr ""
+
+#: include/theme-options/theme_options.php:285
+#: include/theme-options/theme_options.php:679
+#@ Lawyer
+msgid "Background"
+msgstr ""
+
+#: include/theme-options/theme_options.php:285
+#@ Lawyer
+msgid "Pattern"
+msgstr ""
+
+#: include/theme-options/theme_options.php:285
+#@ Lawyer
+msgid "Custom Image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:289
+#@ Lawyer
+msgid "Background image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:302
+#@ Lawyer
+msgid "Background pattern"
+msgstr ""
+
+#: include/theme-options/theme_options.php:304
+#@ Lawyer
+msgid "Choose from Predefined Pattern images."
+msgstr ""
+
+#: include/theme-options/theme_options.php:315
+#@ Lawyer
+msgid "Custom image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:317
+#@ Lawyer
+msgid "This option can be used only with Boxed Layout."
+msgstr ""
+
+#: include/theme-options/theme_options.php:324
+#@ Lawyer
+msgid "Background image position"
+msgstr ""
+
+#: include/theme-options/theme_options.php:326
+#@ Lawyer
+msgid "Choose image position for body background"
+msgstr ""
+
+#: include/theme-options/theme_options.php:341
+#@ Lawyer
+msgid "Custom favicon"
+msgstr ""
+
+#: include/theme-options/theme_options.php:343
+#@ Lawyer
+msgid "Custom favicon for your site."
+msgstr ""
+
+#: include/theme-options/theme_options.php:349
+#@ Lawyer
+msgid "Smooth Scroll"
+msgstr ""
+
+#: include/theme-options/theme_options.php:351
+#@ Lawyer
+msgid "Lightweight Script for Page Scrolling animation"
+msgstr ""
+
+#: include/theme-options/theme_options.php:358
+#@ Lawyer
+msgid "RTL"
+msgstr ""
+
+#: include/theme-options/theme_options.php:360
+#@ Lawyer
+msgid "Turn RTL ON/OFF here for Right to Left languages like Arabic etc."
+msgstr ""
+
+#: include/theme-options/theme_options.php:367
+#@ Lawyer
+msgid "Responsive"
+msgstr ""
+
+#: include/theme-options/theme_options.php:369
+#@ Lawyer
+msgid "Set responsive design layout for mobile devices ON/OFF here"
+msgstr ""
+
+#: include/theme-options/theme_options.php:379
+#@ Lawyer
+msgid "header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:383
+#@ Lawyer
+msgid "Attention for Header Position!"
+msgstr ""
+
+#: include/theme-options/theme_options.php:389
+#@ Lawyer
+msgid "Logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:391
+#@ Lawyer
+msgid "Upload your custom logo in .png .jpg .gif formats only."
+msgstr ""
+
+#: include/theme-options/theme_options.php:396
+#@ Lawyer
+msgid "Logo Height"
+msgstr ""
+
+#: include/theme-options/theme_options.php:398
+#@ Lawyer
+msgid "Set exact logo height otherwise logo will not display normally."
+msgstr ""
+
+#: include/theme-options/theme_options.php:405
+#@ Lawyer
+msgid "logo width"
+msgstr ""
+
+#: include/theme-options/theme_options.php:407
+#@ Lawyer
+msgid "Set exact logo width otherwise logo will not display normally."
+msgstr ""
+
+#: include/theme-options/theme_options.php:415
+#@ Lawyer
+msgid "Logo margin top and bottom"
+msgstr ""
+
+#: include/theme-options/theme_options.php:417
+#@ Lawyer
+msgid "Logo spacing/margin from top and bottom."
+msgstr ""
+
+#: include/theme-options/theme_options.php:424
+#@ Lawyer
+msgid "Logo margin left and right"
+msgstr ""
+
+#: include/theme-options/theme_options.php:433
+#@ Lawyer
+msgid "Header Styles"
+msgstr ""
+
+#: include/theme-options/theme_options.php:435
+#@ Lawyer
+msgid "Choose header style from the given options"
+msgstr ""
+
+#: include/theme-options/theme_options.php:441
+#@ Lawyer
+msgid "header_1"
+msgstr ""
+
+#: include/theme-options/theme_options.php:442
+#@ Lawyer
+msgid "header_2"
+msgstr ""
+
+#: include/theme-options/theme_options.php:449
+#: include/theme-options/theme_options.php:451
+#@ Lawyer
+msgid "Header Elements"
+msgstr ""
+
+#: include/theme-options/theme_options.php:455
+#@ Lawyer
+msgid "Main Search"
+msgstr ""
+
+#: include/theme-options/theme_options.php:457
+#@ Lawyer
+msgid "Set header search On/Off. Allow user to search site content."
+msgstr ""
+
+#: include/theme-options/theme_options.php:464
+#@ Lawyer
+msgid "WPML"
+msgstr ""
+
+#: include/theme-options/theme_options.php:466
+#@ Lawyer
+msgid "Set WordPress Multi Language switcher ON/OFF in header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:473
+#@ Lawyer
+msgid "Sticky Header On/Off"
+msgstr ""
+
+#: include/theme-options/theme_options.php:476
+#@ Lawyer
+msgid "If you enable this option , header will be fixed on top of your browser window."
+msgstr ""
+
+#: include/theme-options/theme_options.php:482
+#: include/theme-options/theme_options.php:484
+#@ Lawyer
+msgid "Header Position Settings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:488
+#@ Lawyer
+msgid "Select Header Position"
+msgstr ""
+
+#: include/theme-options/theme_options.php:490
+#@ Lawyer
+msgid "Select header position as Absolute OR Relative"
+msgstr ""
+
+#: include/theme-options/theme_options.php:498
+#@ Lawyer
+msgid "Header settings made here will be implemented on default pages."
+msgstr ""
+
+#: include/theme-options/theme_options.php:500
+#@ Lawyer
+msgid "Default Header Background"
+msgstr ""
+
+#: include/theme-options/theme_options.php:514
+#@ Lawyer
+msgid "Upload your custom background image in .png .jpg .gif formats only."
+msgstr ""
+
+#: include/theme-options/theme_options.php:521
+#@ Lawyer
+msgid "set header background color."
+msgstr ""
+
+#: include/theme-options/theme_options.php:526
+#: include/theme-options/theme_options.php:528
+#@ Lawyer
+msgid "Header Top Strip"
+msgstr ""
+
+#: include/theme-options/theme_options.php:533
+#@ Lawyer
+msgid "Header Strip"
+msgstr ""
+
+#: include/theme-options/theme_options.php:535
+#@ Lawyer
+msgid "Enable/Disable header top strip."
+msgstr ""
+
+#: include/theme-options/theme_options.php:541
+#@ Lawyer
+msgid "Social Icon"
+msgstr ""
+
+#: include/theme-options/theme_options.php:543
+#@ Lawyer
+msgid "Enable/Disable social icon. Add icons from General > social icon"
+msgstr ""
+
+#: include/theme-options/theme_options.php:551
+#@ Lawyer
+msgid "Menu location can be set from Appearance > Menu > Manage Menu Locations."
+msgstr ""
+
+#: include/theme-options/theme_options.php:558
+#@ Lawyer
+msgid "Write phone no, email or address for Header top strip"
+msgstr ""
+
+#: include/theme-options/theme_options.php:564
+#@ Lawyer
+msgid "Header addsense"
+msgstr ""
+
+#: include/theme-options/theme_options.php:566
+#@ Lawyer
+msgid "Embed Image/Google addsense Code"
+msgstr ""
+
+#: include/theme-options/theme_options.php:572
+#@ Lawyer
+msgid "sub header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:584
+#@ Lawyer
+msgid "Sub Header settings made here will be implemented on all pages."
+msgstr ""
+
+#: include/theme-options/theme_options.php:590
+#@ Lawyer
+msgid "Content Padding"
+msgstr ""
+
+#: include/theme-options/theme_options.php:592
+#@ Lawyer
+msgid "Choose default or custom padding for sub header content."
+msgstr ""
+
+#: include/theme-options/theme_options.php:617
+#@ Lawyer
+msgid "Set custom padding for sub header content top area."
+msgstr ""
+
+#: include/theme-options/theme_options.php:626
+#@ Lawyer
+msgid "Set custom padding for sub header content bottom area."
+msgstr ""
+
+#: include/theme-options/theme_options.php:633
+#@ Lawyer
+msgid "Content Text Align"
+msgstr ""
+
+#: include/theme-options/theme_options.php:635
+#@ Lawyer
+msgid "select the text Alignment for sub header content."
+msgstr ""
+
+#: include/theme-options/theme_options.php:641
+#@ Lawyer
+msgid "Page Title"
+msgstr ""
+
+#: include/theme-options/theme_options.php:643
+#@ Lawyer
+msgid "Set page title ON/OFF in sub header"
+msgstr ""
+
+#: include/theme-options/theme_options.php:687
+#@ Lawyer
+msgid "Parallax"
+msgstr ""
+
+#: include/theme-options/theme_options.php:697
+#@ Lawyer
+msgid "footer options"
+msgstr ""
+
+#: include/theme-options/theme_options.php:701
+#@ Lawyer
+msgid "Footer section"
+msgstr ""
+
+#: include/theme-options/theme_options.php:703
+#@ Lawyer
+msgid "enable/disable footer area"
+msgstr ""
+
+#: include/theme-options/theme_options.php:708
+#@ Lawyer
+msgid "Footer Widgets"
+msgstr ""
+
+#: include/theme-options/theme_options.php:710
+#@ Lawyer
+msgid "enable/disable footer widget area"
+msgstr ""
+
+#: include/theme-options/theme_options.php:717
+#@ Lawyer
+msgid "Social Icons"
+msgstr ""
+
+#: include/theme-options/theme_options.php:719
+#@ Lawyer
+msgid "enable/disable Social Icons"
+msgstr ""
+
+#: include/theme-options/theme_options.php:723
+#@ Lawyer
+msgid "Footer Menu"
+msgstr ""
+
+#: include/theme-options/theme_options.php:725
+#@ Lawyer
+msgid "enable/disable Footer Menu"
+msgstr ""
+
+#: include/theme-options/theme_options.php:729
+#@ Lawyer
+msgid "NewsLetter Signup"
+msgstr ""
+
+#: include/theme-options/theme_options.php:731
+#@ Lawyer
+msgid "enable/disable NewsLetter Signup area"
+msgstr ""
+
+#: include/theme-options/theme_options.php:736
+#@ Lawyer
+msgid "footer logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:738
+#@ Lawyer
+msgid "set custom footer logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:743
+#@ Lawyer
+msgid "Footer Background Image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:745
+#@ Lawyer
+msgid "Set custom Footer Background Image"
+msgstr ""
+
+#: include/theme-options/theme_options.php:749
+#@ Lawyer
+msgid "copyright text"
+msgstr ""
+
+#: include/theme-options/theme_options.php:751
+#: include/theme-options/theme_options.php:1759
+#@ Lawyer
+msgid "write your own copyright text"
+msgstr ""
+
+#: include/theme-options/theme_options.php:757
+#@ Lawyer
+msgid "Footer Twitter Options"
+msgstr ""
+
+#: include/theme-options/theme_options.php:764
+#@ Lawyer
+msgid "Footer Twitter Background Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:766
+#@ Lawyer
+msgid "Set Footer Twitter Background Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:772
+#@ Lawyer
+msgid "footer twitter"
+msgstr ""
+
+#: include/theme-options/theme_options.php:774
+#@ Lawyer
+msgid "set footer twitter on/off"
+msgstr ""
+
+#: include/theme-options/theme_options.php:780
+#@ Lawyer
+msgid "twitter username"
+msgstr ""
+
+#: include/theme-options/theme_options.php:782
+#@ Lawyer
+msgid "set footer twitter username"
+msgstr ""
+
+#: include/theme-options/theme_options.php:789
+#@ Lawyer
+msgid "twitter no. of tweets"
+msgstr ""
+
+#: include/theme-options/theme_options.php:791
+#@ Lawyer
+msgid "set number of tweets such as 5"
+msgstr ""
+
+#: include/theme-options/theme_options.php:799
+#@ Lawyer
+msgid "general colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:803
+#@ Lawyer
+msgid "Theme Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:805
+#@ Lawyer
+msgid "Choose theme skin color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:813
+#@ Lawyer
+msgid "Choose Body Background Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:819
+#@ Lawyer
+msgid "Body Text Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:821
+#@ Lawyer
+msgid "Choose text color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:828
+#@ Lawyer
+msgid "header colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:832
+#@ Lawyer
+msgid "top strip colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:834
+#@ Lawyer
+msgid "Top Strip"
+msgstr ""
+
+#: include/theme-options/theme_options.php:840
+#@ Lawyer
+msgid "Change Top Strip background color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:848
+#@ Lawyer
+msgid "Change Top Strip text color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:854
+#@ Lawyer
+msgid "Link Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:856
+#@ Lawyer
+msgid "Change Top Strip link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:865
+#: include/theme-options/theme_options.php:867
+#@ Lawyer
+msgid "Header Colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:873
+#@ Lawyer
+msgid "Change Header background color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:878
+#@ Lawyer
+msgid "Navigation Background Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:880
+#@ Lawyer
+msgid "Change Header Navigation Background color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:888
+#@ Lawyer
+msgid "Menu Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:890
+#@ Lawyer
+msgid "Change Header Menu Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:896
+#@ Lawyer
+msgid "Menu Active Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:898
+#@ Lawyer
+msgid "Change Header Menu Active Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:905
+#@ Lawyer
+msgid "Submenu Background"
+msgstr ""
+
+#: include/theme-options/theme_options.php:907
+#@ Lawyer
+msgid "Change Submenu Background color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:915
+#@ Lawyer
+msgid "Change Submenu Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:921
+#@ Lawyer
+msgid "Submenu Hover Link Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:923
+#@ Lawyer
+msgid "Change Submenu Hover Link color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:932
+#@ Lawyer
+msgid "footer colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:936
+#@ Lawyer
+msgid "Footer Background Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:944
+#@ Lawyer
+msgid "Footer Title Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:952
+#@ Lawyer
+msgid "Footer Text Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:960
+#@ Lawyer
+msgid "Footer Link Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:968
+#@ Lawyer
+msgid "Footer Widget Background Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:976
+#@ Lawyer
+msgid "Copyright Text"
+msgstr ""
+
+#: include/theme-options/theme_options.php:985
+#@ Lawyer
+msgid "heading colors"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1040
+#@ Lawyer
+msgid "Custom Fonts"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1045
+#@ Lawyer
+msgid "Custom Font .woff"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1047
+#@ Lawyer
+msgid "Custom font for your site upload .woff format file."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1053
+#@ Lawyer
+msgid "Custom Font .ttf"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1055
+#@ Lawyer
+msgid "Custom font for your site upload .ttf format file."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1061
+#@ Lawyer
+msgid "Custom Font .svg"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1063
+#@ Lawyer
+msgid "Custom font for your site upload .svg format file."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1069
+#@ Lawyer
+msgid "Custom Font .eot"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1071
+#@ Lawyer
+msgid "Custom font for your site upload .eot format file."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1082
+#@ Lawyer
+msgid "Content Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1084
+#@ Lawyer
+msgid "Set fonts for Body text"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1090
+#@ Lawyer
+msgid "Content Font Attribute"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1092
+#: include/theme-options/theme_options.php:1108
+#: include/theme-options/theme_options.php:1124
+#: include/theme-options/theme_options.php:1140
+#@ Lawyer
+msgid "Set Font Attribute"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1098
+#@ Lawyer
+msgid "Main Menu Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1100
+#@ Lawyer
+msgid "Set font for main Menu. It will be applied to sub menu as well"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1106
+#@ Lawyer
+msgid "Main Menu Font Attribute"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1114
+#@ Lawyer
+msgid "Headings Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1116
+#@ Lawyer
+msgid "Select font for Headings. It will apply on all posts and pages headings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1122
+#@ Lawyer
+msgid "Headings Font Attribute"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1130
+#@ Lawyer
+msgid "Widget Headings Font"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1132
+#@ Lawyer
+msgid "Set font for Widget Headings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1138
+#@ Lawyer
+msgid "Widget Headings Font Attribute"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1147
+#@ Lawyer
+msgid "Font size"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1161
+#@ Lawyer
+msgid "Main Menu"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1181
+#@ Lawyer
+msgid "Heading 1"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1190
+#@ Lawyer
+msgid "Heading 2"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1199
+#@ Lawyer
+msgid "Heading 3"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1208
+#@ Lawyer
+msgid "Heading 4"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1217
+#@ Lawyer
+msgid "Heading 5"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1226
+#@ Lawyer
+msgid "Heading 6"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1236
+#@ Lawyer
+msgid "Widget Heading"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1251
+#@ Lawyer
+msgid "Social Network"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1262
+#@ Lawyer
+msgid "social Sharing"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1287
+#@ Lawyer
+msgid "Pinterest"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1294
+#@ Lawyer
+msgid "Tumblr"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1301
+#@ Lawyer
+msgid "Dribbble"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1308
+#@ Lawyer
+msgid "Instagram"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1315
+#@ Lawyer
+msgid "StumbleUpon"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1322
+#@ Lawyer
+msgid "youtube"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1329
+#@ Lawyer
+msgid "share more"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1345
+#@ Lawyer
+msgid "Custom Css"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1347
+#@ Lawyer
+msgid "write you custom css without style tag"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1353
+#@ Lawyer
+msgid "Custom JavaScript"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1355
+#@ Lawyer
+msgid "write you custom js without script tag"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1366
+#: include/theme-options/theme_options.php:1421
+#@ Lawyer
+msgid "Sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1368
+#@ Lawyer
+msgid "Select a sidebar from the list already given"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1375
+#@ Lawyer
+msgid "post layout"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1377
+#@ Lawyer
+msgid "single post layout"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1381
+#@ Lawyer
+msgid "Single Post Layout"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1383
+#@ Lawyer
+msgid "Use this option to set default layout. It will be applied to all posts created in other theme"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1388
+#: include/theme-options/theme_options.php:1416
+#@ Lawyer
+msgid "full width"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1390
+#: include/theme-options/theme_options.php:1418
+#@ Lawyer
+msgid "sidebar right"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1394
+#@ Lawyer
+msgid "Single Layout Sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1396
+#@ Lawyer
+msgid "Select Single Post Layout of your choice for sidebar layout. You cannot select it for full width layout"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1403
+#: include/theme-options/theme_options.php:1405
+#@ Lawyer
+msgid "default pages"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1409
+#@ Lawyer
+msgid "Default Pages Layout"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1411
+#@ Lawyer
+msgid "Set Sidebar for all pages like Search, Author Archive, Category Archive etc"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1423
+#@ Lawyer
+msgid "Select pre-made sidebars for default pages on sidebar layout. Full width layout cannot have sidebars"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1429
+#@ Lawyer
+msgid "Excerpt"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1431
+#@ Lawyer
+msgid "Set excerpt length/limit from here. It controls text limit for post's content"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1438
+#@ Lawyer
+msgid "Seo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1442
+#@ Lawyer
+msgid "<b>Attention for External SEO Plugins!"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1444
+#@ Lawyer
+msgid "If you are using any external SEO plugin, Turn OFF these options"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1448
+#@ Lawyer
+msgid "Built-in Seo fields"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1450
+#@ Lawyer
+msgid "Turn Seo options ON/OFF"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1455
+#@ Lawyer
+msgid "Meta Description"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1457
+#@ Lawyer
+msgid "HTML attributes that explain the contents of web pages commonly used on search engine result pages (SERPs) for pages snippets"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1463
+#@ Lawyer
+msgid "Meta Keywords"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1465
+#@ Lawyer
+msgid "Attributes of meta tags, a list of comma-separated words included in the HTML of a Web page that describe the topic of that page"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1471
+#@ Lawyer
+msgid "Google Analytics"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1473
+#@ Lawyer
+msgid "Google Analytics is a service offered by Google that generates detailed statistics about a website's traffic, traffic sources, measures conversions and sales. Paste Google Analytics code here"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1480
+#: include/theme-options/theme_options.php:1487
+#@ Lawyer
+msgid "Maintenance Mode"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1491
+#@ Lawyer
+msgid "Maintenace Page"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1493
+#@ Lawyer
+msgid "Users will see Maintenance page & logged in Admin will see normal site."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1498
+#@ Lawyer
+msgid "Show Logo"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1500
+#@ Lawyer
+msgid "Show/Hide logo on Maintenance. Logo can be uploaded from General > Header in CS Theme options."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1505
+#@ Lawyer
+msgid "Maintenance Text"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1507
+#@ Lawyer
+msgid "Text for Maintenance page. Insert some basic HTML or use shortcodes here."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1513
+#@ Lawyer
+msgid "Launch Date"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1515
+#@ Lawyer
+msgid "Estimated date for completion of site on Maintenance page."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1522
+#@ Lawyer
+msgid "api settings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1530
+#@ Lawyer
+msgid "all api settings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1540
+#@ Lawyer
+msgid "Attention for API Settings!"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1542
+#@ Lawyer
+msgid "API Settings allows admin of the site to show their activity on site semi-automatically. Set your social account API once, it will be update your social activity automatically on your site."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1545
+#@ Lawyer
+msgid "Show Twitter"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1547
+#@ Lawyer
+msgid "Turn Twitter option On/Off"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1552
+#@ Lawyer
+msgid "Consumer Key"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1559
+#@ Lawyer
+msgid "Consumer Secret"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1561
+#@ Lawyer
+msgid "Insert consumer key. To get your account key, <a href='https://dev.twitter.com/' target='_blank'>Click Here </a>"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1566
+#@ Lawyer
+msgid "Access Token"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1568
+#@ Lawyer
+msgid "Insert Twitter Access Token for permissions. When you create your Twitter App, you get this Token"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1573
+#@ Lawyer
+msgid "Access Token Secret"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1575
+#@ Lawyer
+msgid "Insert Twitter Access Token Secret here. When you create your Twitter App, you get this Token"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1590
+#@ Lawyer
+msgid "Facebook Login On/Off"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1592
+#@ Lawyer
+msgid "Turn Facebook Login ON/OFF"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1598
+#@ Lawyer
+msgid "Facebook Application Id"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1600
+#@ Lawyer
+msgid "To get your Facebook Aplication ID <a href='https://developers.facebook.com/docs/graph-api/reference/v2.1/app' target='_blank'>Click Here </a>"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1605
+#@ Lawyer
+msgid "Facebook  Secret"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1607
+#@ Lawyer
+msgid "Put your Facebook Secret here. You can find it in your facebook Application Dashboard"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1614
+#@ Lawyer
+msgid "Google"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1616
+#@ Lawyer
+msgid "Google+"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1620
+#@ Lawyer
+msgid "Google+ Login On/Off"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1622
+#@ Lawyer
+msgid "Turn Google+ Login On/Off"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1628
+#@ Lawyer
+msgid "Google+ Client Id"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1630
+#@ Lawyer
+msgid "Type your Google Login information here"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1635
+#@ Lawyer
+msgid "Google+ Client Secret"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1642
+#@ Lawyer
+msgid "Google+ API key"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1649
+#@ Lawyer
+msgid "Fixed redirect url for login"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1658
+#: include/theme-options/theme_options.php:1660
+#@ Lawyer
+msgid "Mail Chimp"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1664
+#@ Lawyer
+msgid "Mail Chimp Key"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1665
+#@ Lawyer
+msgid "Enter a valid Mail Chimp API key here to get started. Once you've done that, you can use the Mail Chimp Widget from the Widgets menu. You will need to have at least Mail Chimp list set up before the using the widget. You can get your mail chimp activation key"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1666
+#@ Lawyer
+msgid "Get your mail chimp key by <a href='https://login.mailchimp.com/' target='_blank'>Clicking Here </a>"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1672
+#@ Lawyer
+msgid "Mail Chimp List"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1681
+#: include/theme-options/theme_options.php:1683
+#@ Lawyer
+msgid "Flickr API Setting"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1687
+#@ Lawyer
+msgid "Flickr key"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1693
+#@ Lawyer
+msgid "Flickr secret"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1705
+#: include/theme-options/theme_options.php:1712
+#@ Lawyer
+msgid "Cause settings"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1716
+#@ Lawyer
+msgid "User Profile Page"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1718
+#@ Lawyer
+msgid "Select page for user profile here"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1724
+#@ Lawyer
+msgid "Allow Campaigns From Frontend"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1726
+#@ Lawyer
+msgid "Allow Non Admins to Create Campaigns From Frontend"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1732
+#@ Lawyer
+msgid "New Campaigns Status"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1734
+#@ Lawyer
+msgid "New Campaigns Visibility. You can set default status of user compaigns"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1743
+#@ Lawyer
+msgid "Campaigns Description"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1745
+#@ Lawyer
+msgid "It will display on User Campaigns Listing"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1747
+#@ Lawyer
+msgid "Campaigns help you organize people to achieve a common goal. Follow these simple steps and start campaigning for what you care about Get people interested with a short description of what yo are trying to do."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1750
+#@ Lawyer
+msgid "Add New Campaigns Text"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1752
+#@ Lawyer
+msgid "It will display on Add Campaigns Page"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1754
+#@ Lawyer
+msgid "An event happening at a certain time and location, such as a concert, lecture, or festival."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1757
+#@ Lawyer
+msgid "Campaigns Terms & Conditions"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1761
+#@ Lawyer
+msgid "Asome decently militantly versus that a enormous less treacherous genially well upon until fishy audaciously where fabulously underneath toucan armadillo far toward illustratively flawlessly shark much a emoted hey tersely pointedly much that hey quetzal up trenchant abundant made alas wildebeest overate overhung during busily burst as jeez much because more added on some thrust out."
+msgstr ""
+
+#: include/theme-options/theme_options.php:1767
+#@ Lawyer
+msgid "Paypal Sandbox"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1769
+#@ Lawyer
+msgid "Paypal Sandbox On/Off"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1775
+#@ Lawyer
+msgid "Donor Registeration"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1777
+#@ Lawyer
+msgid "User Registeration For Donation On/Off"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1783
+#@ Lawyer
+msgid "Paypal Email"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1790
+#@ Lawyer
+msgid "Paypal Ipn Url"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1796
+#@ Lawyer
+msgid "Paypal Payments"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1803
+#@ Lawyer
+msgid "Currency"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1805
+#@ Lawyer
+msgid "Currency Code"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1811
+#@ Lawyer
+msgid "Currency Sign"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1821
+#: include/theme-options/theme_options.php:1828
+#@ Lawyer
+msgid "import & export"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1832
+#@ Lawyer
+msgid "Export"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1840
+#@ Lawyer
+msgid "Import"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1842
+#@ Lawyer
+msgid "To Import your settings, paste the code that you got in above area and saved it with you"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:507
+#@ Lawyer
+msgid "Default Font"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:552
+#@ Lawyer
+msgid "Select Attribute"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1133
+#@ Lawyer
+msgid "Please enter the desired title of sidebar"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1139
+#@ Lawyer
+msgid "Already Added Sidebars"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1146
+#@ Lawyer
+msgid "Sider Bar Name"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1199
+#@ Lawyer
+msgid "Please enter text for icon"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1250
+#@ Lawyer
+msgid "Already Added Social Icons"
+msgstr ""
+
+#: include/theme-options/theme_options_fields.php:1258
+#@ Lawyer
+msgid "Network Name"
+msgstr ""
+
+#: page.php:74
+#: page.php:334
+#: single.php:222
+#@ Lawyer
+msgid "Pages"
+msgstr ""
+
+#: single.php:202
+#@ Lawyer
+msgid "Posted by"
+msgstr ""
+
+#: single.php:206
+#@ Lawyer
+msgid "Posted in"
+msgstr ""
+
+#: single.php:237
+#@ Lawyer
+msgid "Blog Attachment"
+msgstr ""
+
+#: include/theme-options/theme_options.php:913
+#@ Lawyer
+msgid "Submenu Link Color"
+msgstr ""
+
+#: include/theme-options/theme_options.php:1834
+#@ Lawyer
+msgid "If you want to make changes in your site or want to preserve your current settings, Export them code by saving this code with you. You can restore your settings by pasting this code in Import section below"
+msgstr ""
+
